@@ -1,0 +1,142 @@
+* {
+  font-family: 'Montserrat', sans-serif !important;
+}
+input, textarea {
+  border: none !important;
+  background: #FFFFFF;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+}
+.header {
+  background: url("../img/banner.jpg") no-repeat center;
+  background-size: cover;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* .header .navbar {
+  position: fixed;
+  width: 100%;
+} */
+
+.start-form {
+  position: fixed;
+  right: 5%;
+  bottom: 5%;
+  box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
+  width: 350px;
+}
+
+.header .first-text {
+  position: absolute;
+  bottom: 5%;
+  left: 10%;
+  width: 180px;
+  font-weight: 900;
+  color: #fff;
+  font-size: 50px;
+}
+
+.activa {
+  color: blueviolet;
+  font-weight: 700;
+}
+
+.banner {
+  font-size: 2em;
+}
+
+.banner div:not(.inside) {
+  display: inline-flex;
+}
+
+.banner div p {
+  width: 200px;
+}
+
+.fringe{
+  background: #8EB7C1;
+}
+
+.section-2 {
+  margin: 0 10%;
+}
+
+.section-3 {
+  margin: 5%;
+}
+
+.section-2 p {
+  max-width: 580px;
+}
+
+.section-3 p {
+  margin: 2%;
+}
+
+.my-button{
+  background-color: #8EB7C1;
+  box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  width: 170px;
+  height: 45px;
+  border: none;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: -0.03em;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 100%;
+  color: #fff;
+}
+
+.central {
+    border-left: -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.25);
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.25);
+}
+
+.date {
+  background: #8EB7C1;
+  box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.15);
+  font-size: 1.2em;
+}
+
+.my-card {
+  background: #FFFFFF;
+  box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  width: 62%;
+}
+
+.my-card div {
+  display: inline-block;
+}
+
+@media (max-width: 1100px) {
+
+  .header .navbar{
+    background-color: transparent !important;
+    position: fixed;
+    width: 100%;
+  }
+
+  .header .navbar a {
+    color: #fff !important;
+  }
+
+  .banner {
+    font-size: 1em;
+  }
+
+  .content-form {
+    display: none;
+  }
+
+  .header .first-text {
+    bottom: 5%;
+    text-align: center;
+    left: 5%;
+
+
+}
