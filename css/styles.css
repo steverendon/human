@@ -15,10 +15,42 @@ input, textarea {
   position: relative;
 }
 
+.photo {
+  background-image: url("../img/foto1.png");
+  background-size: cover;
+  min-height: 100vh;
+  width: 250px;
+}
+
+.photo-text {
+  margin-top: 500px;
+}
+
+.t {
+  width: 100%;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.movil {
+  display: none;
+}
+
 .tar {
   background: #FFFFFF;
   box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
+}
+
+.texto-inicial {
+  bottom: 5px;
+}
+
+.desktop {
+  background-image: url("../img/banner-escuela.png") ;
+  background-size: cover;
+  min-height: 50vh;
+  position: relative;
 }
 
 .tar img {
@@ -30,7 +62,7 @@ input, textarea {
   width: 80%;
 }
 
-.header .navbar {
+.navbar {
   position: fixed;
   width: 100%;
   z-index: 1;
@@ -52,7 +84,7 @@ input, textarea {
   z-index: 1;
 }
 
-.header .first-text {
+.first-text {
   position: absolute;
   bottom: 20%;
   left: 10%;
@@ -131,11 +163,19 @@ input, textarea {
   overflow-y: auto;
 }
 
+.telephone {
+  color: #76BBCA;
+  font-weight: 800;
+  width: 100%;
+}
+
+
 .my-button{
   background-color: #8EB7C1;
   box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
-  width: 170px;
+ /*  width: 170px; */
+  padding: 0px 40px;
   height: 45px;
   border: none;
   text-align: center;
@@ -208,6 +248,10 @@ input, textarea {
   margin: auto;
 }
 
+.claro {
+  color: #8EB7C1 !important;
+}
+
 .fear1 {
   display: none;
 }
@@ -221,10 +265,6 @@ footer div{
   font-size: 0.8em;
 }
 
-footer {
-  margin-top: 50px;
-}
-
 @media (max-width: 1300px) {
   .friends {
     display: block;
@@ -232,8 +272,16 @@ footer {
     margin: auto;
   }
 
-  footer {
-    display: none;
+  .movil {
+    display: block;
+  }
+
+  footer .footer-logo{
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.05);
+    position: absolute;
+    width: 100%;
   }
 
   .h3 {
