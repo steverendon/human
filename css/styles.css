@@ -37,11 +37,13 @@ input, textarea, select {
   right: 0;
 }
 
+.cer {
+  margin-top: 50px;
+}
 
 .contacto {
   margin: auto;
   width: 100%;
-  position: absolute;
   left: 0;
   right: 0;
 }
@@ -104,7 +106,6 @@ input, textarea, select {
   width: 100%;
   z-index: 1;
   font-weight: 700;
-  height: 50px;
 }
 
 .white {
@@ -114,7 +115,6 @@ input, textarea, select {
 }
 
 .start-form {
-  position: fixed;
   right: 5%;
   bottom: 19%;
   box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
@@ -220,7 +220,7 @@ input, textarea, select {
   text-transform: uppercase;
   letter-spacing: -0.03em;
   font-weight: 900;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 100%;
   color: #fff;
 }
@@ -302,7 +302,6 @@ footer div{
   padding: 10px;
   font-size: 0.8em;
   width: 100%;
-  position: absolute;
   background-color: #fff;
 }
 
@@ -330,12 +329,32 @@ footer div{
   margin-top: -100px;
 }
 
+.pc {
+  display: block;
+}
+
+.mobile {
+  display: none;
+}
+
 
 @media (max-width: 1300px) {
   .friends {
     display: block;
     width: 80%;
     margin: auto;
+  }
+
+  .pc {
+    display: none;
+  }
+
+  .mobile {
+    display: block;
+  }
+
+  .cer {
+    margin-top: 0px;
   }
 
   .movil {

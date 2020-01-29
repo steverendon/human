@@ -19,5 +19,11 @@ $( document ).ready(function() {
       $(".navbar").removeClass("white");
       $('.date').hide();
      }
+
+     if ($(this).scrollTop() > 3200) {
+       $('.start-form').removeClass("position-fixed");
+     }else {
+      $('.start-form').addClass("position-fixed");
+     }
   });
 });
