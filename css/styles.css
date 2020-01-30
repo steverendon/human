@@ -15,6 +15,23 @@ input, textarea, select {
   position: relative;
 }
 
+.reloj {
+  background: #83BCCD;
+  box-shadow: 0px 3px 35px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+
+.llamado {
+  background: #fff;
+  box-shadow: 0px 3px 35px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  border: none;
+}
+
+.franja {
+  background-color:  #8EB7C1;
+}
+
 .box img {
   width: 100px;
   height: 100px;
@@ -135,7 +152,7 @@ box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
 
 .start-form {
   right: 5%;
-  bottom: 19%;
+  bottom: 7%;
   box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
   width: 350px;
   z-index: 1;
@@ -385,6 +402,10 @@ footer div{
     display: block;
     width: 80%;
     margin: auto;
+  }
+
+  .franja {
+    display: none;
   }
 
   .pc {
