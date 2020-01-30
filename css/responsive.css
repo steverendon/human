@@ -1,0 +1,24 @@
+@media (max-width: 680px) {
+	.app_responsive{
+		width: 100%!important;
+	}
+
+	.justify-content-center{
+		text-align: center;
+	}
+
+	.app_resp_center{
+		text-align: center!important;
+	}
+
+	.navbar{
+		margin-top: 0;
+		border-top: .35rem solid #8EB7C1;
+	}
+
+	.app_margin_responsive_row{
+		margin-right: 0!important;
+		margin-left: 0!important;
+	}
+
+}

@@ -26,6 +26,7 @@ input, textarea, select {
   box-shadow: 0px 3px 35px rgba(0, 0, 0, 0.15);
   border-radius: 5px;
   border: none;
+  font-size: 15px;
 }
 
 .franja {
@@ -36,6 +37,12 @@ input, textarea, select {
   width: 100px;
   height: 100px;
 }
+
+.color_azul_human{
+  color: #8EB7C1;
+}
+
+
 
 .imagen {
   background-size: cover;
@@ -48,7 +55,7 @@ input, textarea, select {
   background: #FFFFFF;
   box-shadow: 0px 3px 35px rgba(0, 0, 0, 0.05);
   border-radius: 15px;
-  padding: 10px!important;
+  padding: 40px!important;
 }
 
 .enlaces {
@@ -123,18 +130,33 @@ input, textarea, select {
   width: 100%;
 }
 
+.fixed_menu{
+  position: fixed;
+  z-index: 1000;
+  right: 0;
+  left: 0;
+}
+
+.app_padding_title{
+  padding-left: 1.8rem;
+}
+
 .benefits {
   width: 80%;
 }
 
 .navbar {
   position: fixed;
+  margin-top: 63px;
   width: 100%;
-  margin: auto;
   z-index: 1;
   font-weight: 700;
   background: #FFFFFF;
-box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
+}
+
+.fs_24px{
+  font-size: 24px;
 }
 
 
@@ -151,7 +173,7 @@ box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
 }
 
 .start-form {
-  right: 5%;
+  right: 12%;
   bottom: 7%;
   box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
   width: 350px;
