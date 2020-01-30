@@ -116,6 +116,8 @@ input, textarea, select {
   margin: auto;
   z-index: 1;
   font-weight: 700;
+  background: #FFFFFF;
+box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
 }
 
 
