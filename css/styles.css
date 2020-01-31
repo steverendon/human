@@ -15,7 +15,47 @@ input, textarea, select {
   position: relative;
 }
 
+.cb{
+  color: #fff!important;
+}
 
+.circulos {
+  width: 150px;
+  margin: auto;
+  display: flex
+}
+
+.circulo-rojo {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: #F22020;
+  margin: 5px;
+}
+
+.circulo-amarillo {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: #BCF220;
+  margin: 5px;
+}
+
+.circulo-azul {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: #4BDFFF;
+  margin: 5px;
+}
+
+.circulo-naranja {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background-color: #F2D120;
+  margin: 5px;
+}
 
 .reloj {
   background: #83BCCD;
@@ -142,6 +182,7 @@ input, textarea, select {
   max-height: 150px;
   max-width: 200px;
   min-height: 150px;
+  font-size: 0.8em;
 }
 
 .franja-verde {
@@ -150,6 +191,14 @@ input, textarea, select {
   position: absolute;
   left: 0;
   right: 0;
+}
+
+.img-hover:hover {
+  background-color: whitesmoke;
+}
+
+.text-hover:hover {
+  background-color: rgba(0, 0, 0, 0.15);
 }
 
 .cer {
@@ -352,6 +401,10 @@ input, textarea, select {
   bottom: 0px;
   position: absolute;
   width: 100%;
+}
+
+a {
+  color:  #8EB7C1 !important;
 }
 
 .section-2 {
@@ -577,7 +630,7 @@ footer div{
   }
 
   .pc {
-    display: none;
+    display: none !important;
   }
 
   .mobile {

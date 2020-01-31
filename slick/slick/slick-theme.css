@@ -36,19 +36,20 @@
 
     cursor: pointer;
 
-    color: transparent;
+    color: #76BBCA !important;
     border: none;
     outline: none;
-    background: transparent;
+    background: #76BBCA !important;
+    border-radius: 50%;
 }
 .slick-prev:hover,
 .slick-prev:focus,
 .slick-next:hover,
 .slick-next:focus
 {
-    color: transparent;
+    color: #76BBCA;
     outline: none;
-    background: transparent;
+    background: #76BBCA;
 }
 .slick-prev:hover:before,
 .slick-prev:focus:before,

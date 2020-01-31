@@ -80,6 +80,7 @@
     <?php include('includes/footer.php'); ?>
 
 
+
   <div class="modal fade bd-example-modal-sm-1" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-sm">
       <div class="modal-content m-2">
