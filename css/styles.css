@@ -165,6 +165,7 @@ input, textarea, select {
   max-height: 150px;
   max-width: 200px;
   min-height: 150px;
+  font-size: 0.8em;
 }
 
 .franja-verde {
