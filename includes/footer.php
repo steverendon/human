@@ -2,32 +2,32 @@
     <div class="w-75 m-auto">
        <p class="font-weight-bold text-uppercase text-capitalize text-center"><strong class="color_azul_human fs-25">comunícate con nosotros</strong></p>
        <div class="row jsutify-content-center">
-           <div class="col-lg-3 text-center border-card-2 btn_form">
+           <div class="col-lg-3 text-center border-card-2 img-hover btn_form">
                <img src="img/Group244.png" alt="" class="p-3">
                <p class="font-weight-bold text-uppercase text-capitalize"><b>formulario</b></p>
            </div>
-           <div class="col-lg-3 text-center border-card-2">
+           <div class="col-lg-3 text-center border-card-2 img-hover">
                <img src="img/Group243.png" alt="" class="p-3">
                <p class="font-weight-bold text-uppercase text-capitalize"><b>messenger</b></p>
            </div>
-           <div class="col-lg-3 text-center border-card-2">
+           <div class="col-lg-3 text-center border-card-2 img-hover">
                <img src="img/Group.png" alt="" class="p-3">
                <p class="font-weight-bold text-uppercase text-capitalize"><b>whatsapp</b></p>
            </div>
-           <div class="col-lg-3 text-center border-card-2">
+           <div class="col-lg-3 text-center border-card-2 img-hover">
                <img src="img/telefono.png" alt="" class="p-3">
                <p class="font-weight-bold text-uppercase text-capitalize"><b>llamada telefonica</b></p>
            </div>
        </div>
     </div>
    <div class="row justify-content-center franja-verde">
-       <div class="col-lg-3">
+       <div class="col-lg-3 ">
            <p class="font-weight-bold text-uppercase text-capitalize pt-4 mt-1 pl-3"><b class="text-white"><img src="img/metododepago.png" alt=""></b></p>
        </div>
-       <div class="col-lg-3">
+       <div class="col-lg-3 text-hover">
            <p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3 text-white"><b class="text-white"><img src="img/Group247.png" alt=""></b> |</p>
        </div>
-       <div class="col-lg-3">
+       <div class="col-lg-3 text-hover">
            <p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3"><b class="text-white"><img src="img/Group248.png" alt=""></b></p>
        </div>
    </div>

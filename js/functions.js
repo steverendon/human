@@ -22,7 +22,8 @@ $( document ).ready(function() {
 
      if ($(this).scrollTop() > 3200) {
        $('.start-form').removeClass("position-fixed");
-     }else {
+     }
+     else {
       $('.start-form').addClass("position-fixed");
      }
   });
