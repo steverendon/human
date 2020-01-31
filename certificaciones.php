@@ -68,19 +68,19 @@
             <table class="w-100 text-center banner">
                 <tr>
                     <td>
-                        <p class="text-capitalize p-1 text-white">
+                        <p class="text-capitalize p-1 text-white mb-0">
                             sede<br>
                             <span class="font-weight-bold text-white">lima - peru</span>
                         </p>
                     </td>
                     <td class="central">
-                        <p class="text-capitalize p-1 text-white">
+                        <p class="text-capitalize p-1 text-white mb-0">
                             duración<br>
                             <span class="font-weight-bold text-white">9 meses</span>
                         </p>
                     </td>
                     <td>
-                        <p class="text-capitalize p-1 text-white" >
+                        <p class="text-capitalize p-1 text-white mb-0" >
                             inicio<br>
                             <span class="font-weight-bold text-white">18 de abril</span>
                         </p>

@@ -52,7 +52,7 @@
                 contacto@hmg.pe
             </td>
             <td style="width: 20%;">
-                Síguenos <img src="img/face.png"> <img src="img/insta.png"> <img src="img/face.png">
+                Síguenos <a href="https://www.instagram.com/human_growth_la/" target="_blank"><img src="img/face.png"></a> <a href="https://www.facebook.com/HumanGrowthPeru/" target="_blank"><img src="img/insta.png"></a> <a href="  "><img src="img/face.png"></a>
             </td>
         </tr>
     </table>
@@ -78,7 +78,7 @@
                 <a href="mailto:@hmg.pe" class="enlaces"> @hmg.pe</a>
             </td>
             <td style="width: 20%;">
-                Síguenos <img src="img/face.png" class="zoom enlaces"> <img src="img/in.jpeg" class="zoom"> <img src="img/face.png" class="zoom">
+                Síguenos <a href=""><img src="img/face.png" class="zoom enlaces"></a> <a href=""><img src="img/in.jpeg" class="zoom"></a>
             </td>
         </tr>
     </table>
