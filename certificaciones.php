@@ -11,6 +11,10 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,800,900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="slick/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick/slick-theme.css"/>
+
     
 
 </head>
@@ -176,7 +180,7 @@
 
     <section class="section-2">
 
-        <div class="friends-2 clearfix" style="font-size: 0.9em;">
+        <div class="friends-2 clearfix animacion" style="font-size: 0.9em;">
             <div class="tar float-left m-2">
                 <img src="img/coach1.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
@@ -557,6 +561,21 @@
 
 
     <script src="js/functions.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="slick/slick/slick.min.js"></script>
+
+    <script>
+        $(document).ready(function(){
+        $('.animacion').slick({
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 2000, 
+        });
+        });
+
+    </script>
     
 </body>
 </html>
