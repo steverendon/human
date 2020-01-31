@@ -33,7 +33,7 @@
                 <a class="nav-link" href="nuestraEscuela.php">Escuela <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="certificaciones.php">Certificacion</a>
+                <a class="nav-link" href="certificaciones.php">Certificación</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="equipo.php">Equipo</a>
