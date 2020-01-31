@@ -380,6 +380,110 @@
 </div>
 
 
+
+<div class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+              <div class="modal-content m-2">
+                  <div class="">
+
+                  <div class="row cronograma">
+                        <div class="col-md-2 columna-1">
+                            <div class="objetivos p-4 text-uppercase h5"><b>objetivos
+                            </b></div>
+                            <div class="p-4 border-bottom borde-naranja">
+                                <p>Iniciar un proceso de transformación personal</p>
+                            </div>
+                            <div class="p-4 border-bottom borde-azul">
+                                <p>Desarrollar competencias básicas de coaching (maestrías IAC)</p>
+                            </div>
+                            <div class="p-4 border-bottom borde-amarillo">
+                                <p>Aprender a ejecutar un proceso de coaching</p>
+                            </div>
+                            <div class="p-4 border-bottom borde-rojo">
+                                <p>Estar listo para ejercer profesionalmente como coach</p>
+                            </div>
+                        </div>
+                        <div class="col-md-10">
+                            <div>
+                                <p class="p-4 text-uppercase h5"><b>cronograma / mayo</b>
+                                <span class="float-right" data-dismiss="modal" aria-label="Close" style="cursor:pointer">X</span></p>
+                                <div class="row text-center" style="font-size:1.5em">
+                                    <div class="col-md-3">
+                                        <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            <p>Coaching persona</p>
+                                            <p>15 de mayo</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            <p>Insight grupal</p>
+                                            <p>17 de mayo</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            <p>Maestrías IAC</p>
+                                            <p>23 de mayo</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            <p>Agendar calendario</p>
+                                            <p>15 de mayo</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                        <img src="img/calendar.png" alt="">
+                                            <p>agendar a calendario</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            <p>junio</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            <p>julio</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                           
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                  </div>
+              </div>
+            </div>
+          </div>
+
+
     <script src="js/functions.js"></script>
 
 

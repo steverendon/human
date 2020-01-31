@@ -108,7 +108,7 @@
         <br>
 
         <button class="my-button">Descargar brochure &nbsp; <img src="img/descargar.png" class="icon_btn" alt="descargar"></button>
-        <button class="my-button">ver cronograma &nbsp; <img src="img/calendar.png" class="icon_btn" alt="calendar"></button>
+        <button class="my-button" data-toggle="modal" data-target=".bd-example-modal-sm">ver cronograma &nbsp; <img src="img/calendar.png" class="icon_btn" alt="calendar"></button>
 
         <br><br><br>
 
@@ -178,24 +178,44 @@
 
         <div class="friends-2 clearfix" style="font-size: 0.9em;">
             <div class="tar float-left m-2">
-                <img src="img/coach1.jpeg" alt="">
-                <p class="text-capitalize font-weight-bold text-center p-2"><b>gabriela collado</b></p>
-                <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <img src="img/coach1.jpeg" alt="" class="p-2">
+                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <div class="overlay">
+                    <div class="text-biografia">
+                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    </div>
+                </div>
             </div>
             <div class="tar float-left m-2">
-                <img src="img/coach2.jpeg" alt="">
-                <p class="text-capitalize font-weight-bold text-center p-2"><b>gabriela collado</b></p>
-                <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <img src="img/coach2.jpeg" alt="" class="p-2">
+                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <div class="overlay">
+                    <div class="text-biografia">
+                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    </div>
+                </div>
             </div>
             <div class="tar float-left m-2">
-                <img src="img/coach3.jpeg" alt="">
-                <p class="text-capitalize font-weight-bold text-center p-2"><b>gabriela collado</b></p>
-                <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <img src="img/coach3.jpeg" alt="" class="p-2">
+                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <div class="overlay">
+                    <div class="text-biografia">
+                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    </div>
+                </div>
             </div>
             <div class="tar float-left m-2">
-                <img src="img/coach4.jpeg" alt="">
-                <p class="text-capitalize font-weight-bold text-center p-2"><b>gabriela collado</b></p>
-                <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <img src="img/coach4.jpeg" alt="" class="p-2">
+                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <div class="overlay">
+                    <div class="text-biografia">
+                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -334,6 +354,206 @@
         <p class="d-inline-block">contacto@hmg.pe</p>
     </div>
 </div>
+
+<div class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+              <div class="modal-content m-2">
+                  <div class="">
+
+                  <div class="row cronograma">
+                        <div class="col-md-2 columna-1">
+                            <div class="objetivos p-4 text-uppercase h5"><b>objetivos
+                            </b></div>
+                            <div class="p-4 border-bottom borde-naranja">
+                                <p>Iniciar un proceso de transformación personal</p>
+                            </div>
+                            <div class="p-4 border-bottom borde-azul">
+                                <p>Desarrollar competencias básicas de coaching (maestrías IAC)</p>
+                            </div>
+                            <div class="p-4 border-bottom borde-amarillo">
+                                <p>Aprender a ejecutar un proceso de coaching</p>
+                            </div>
+                            <div class="p-4 border-bottom borde-rojo">
+                                <p>Estar listo para ejercer profesionalmente como coach</p>
+                            </div>
+                        </div>
+                        <div class="col-md-10">
+                            <div>
+                                <p class="p-4 text-uppercase h5"><b>cronograma</b>
+                                <span class="float-right" data-dismiss="modal" aria-label="Close" style="cursor:pointer">X</span></p>
+                                <div class="row text-center" style="font-size:1.5em">
+                                    <div class="col-md-3">
+                                        <div class="p-4 m-4 border-card casillas">
+                                            <p>enero</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas">
+                                            <p>febrero</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas">
+                                            <p>marzo</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas">
+                                            <p>abril</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
+                                            <p>mayo</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas">
+                                            <p>junio</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas">
+                                            <p>julio</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas">
+                                            <p>agosto</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas">
+                                            <p>septiembre</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas">
+                                            <p>octubre</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas">
+                                            <p>noviembre</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas">
+                                            <p>diciembre</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                  </div>
+              </div>
+            </div>
+          </div>
+
+          
+<div class="modal fade bd-example-modal-3" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+              <div class="modal-content m-2">
+                  <div class="">
+
+                  <div class="row cronograma">
+                        <div class="col-md-2 columna-1">
+                            <div class="objetivos p-4 text-uppercase h5"><b>objetivos
+                            </b></div>
+                            <div class="p-4 border-bottom borde-naranja">
+                                <p>Iniciar un proceso de transformación personal</p>
+                            </div>
+                            <div class="p-4 border-bottom borde-azul">
+                                <p>Desarrollar competencias básicas de coaching (maestrías IAC)</p>
+                            </div>
+                            <div class="p-4 border-bottom borde-amarillo">
+                                <p>Aprender a ejecutar un proceso de coaching</p>
+                            </div>
+                            <div class="p-4 border-bottom borde-rojo">
+                                <p>Estar listo para ejercer profesionalmente como coach</p>
+                            </div>
+                        </div>
+                        <div class="col-md-10">
+                            <div>
+                                <p class="p-4 text-uppercase h5"><b>cronograma / mayo</b>
+                                <span class="float-right" data-dismiss="modal" aria-label="Close" style="cursor:pointer">X</span>
+                                <a href="" class="text-capitalizable float-right my-2 mx-5" style="font-size:0.7em" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-sm"><img src="img/Arrow2.png"/> <b>volver a todos</b></a></p>
+                                <div class="row text-center" style="font-size:0.8em">
+                                    <div class="col-md-3">
+                                        <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            <p>Coaching persona</p>
+                                            <p>15 de mayo</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            <p>Insight grupal</p>
+                                            <p>17 de mayo</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            <p>Maestrías IAC</p>
+                                            <p>23 de mayo</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                    <img src="img/calendar.png" alt="">
+                                            <p>Agendar calendario</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            <p>Coaching personal</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                           
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <div class="p-4 m-4 border-card casillas text-capitalize">
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                  </div>
+              </div>
+            </div>
+          </div>
 
 
     <script src="js/functions.js"></script>
