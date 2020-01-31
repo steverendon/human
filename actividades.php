@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Escuela de coaching HG</title>
     <script src="js/jquery.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
@@ -24,13 +24,13 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="img/image54.png" alt="First slide">
+            <img class="d-block w-100" src="img/img-slider.jpeg" alt="First slide">
           </div>
           <div class="carousel-item">
             <img class="d-block w-100" src="img/img-slider.jpeg" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="img/image54.png" alt="Third slide">
+            <img class="d-block w-100" src="img/img-slider.jpeg" alt="Third slide">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -47,7 +47,7 @@
     <h2 class="font-weight-bold text-uppercase text-center m-4"><b><span style="font-size: 0.8em;">nuestras</span><br> actividades</b></h2>
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col">
+        <div class="col-12 col-md-2">
             <div class="input-group mb-3">
                 <select class="custom-select" id="inputGroupSelect01">
                   <option selected>Tipo</option>
@@ -57,7 +57,7 @@
                 </select>
               </div>
         </div>
-        <div class="col">
+        <div class="col-12 col-md-2">
             <div class="input-group mb-3">
                 <select class="custom-select" id="inputGroupSelect01">
                   <option selected>Lugar</option>
@@ -67,7 +67,7 @@
                 </select>
               </div>
         </div>
-        <div class="col">
+        <div class="col-12 col-md-2">
             <div class="input-group mb-3">
                 <select class="custom-select" id="inputGroupSelect01">
                   <option selected>Coach</option>
@@ -77,7 +77,7 @@
                 </select>
               </div>
         </div>
-        <div class="col">
+        <div class="col-12 col-md-2">
             <div class="input-group mb-3">
                 <select class="custom-select" id="inputGroupSelect01">
                   <option selected>Proximos</option>
@@ -87,7 +87,7 @@
                 </select>
               </div>
         </div>
-        <div class="col">
+        <div class="col-12 col-md-2">
             <div class="input-group mb-3">
                 <input type="text" class="form-control" placeholder="Buscar" aria-label="" aria-describedby="basic-addon1">
               </div>
@@ -328,7 +328,7 @@
                     <p class="text-center text-capitalize" style="font-size: 0.7em;">03 de mayo</p>
                 </div>
                 <div class="col-lg-6">
-                  <p class="text-center text-capitalize" style="font-size: 0.7em;"><b>sede miraflorez</b></p>
+                  <p class="text-center text-capitalize" style="font-size: 0.7em;"><b>sede miraflores</b></p>
               </div>
             </div>
           </div>
@@ -336,48 +336,7 @@
     </div>
   </div>
 
-  <div class="pc p-4 text-center">
-    <table class="" style="font-size: 0.9em; width: 100%; margin: auto;">
-        <tr>
-            <td style="width: 20%;">
-                <img src="img/telephone.svg" alt="logo de telefono">
-                <a href="tel:637 3070" class=" enlaces">637 3070 / (511) 637 3072</a> 
-                <div class="linea w-75 mx-auto"></div>
-            </td>
-            <td style="width: 20%;">
-                <img src="img/address.svg" alt="logo de edificio">
-                <span class="float-right px-1"><a href="#" class="enlaces">Benavides 1555 | Oficina 304<br> Lima | Miraflores</a></span> 
-            </td>
-            <td style="width: 20%;">
-                <img src="img/logo.svg" alt="" class="p-4">
-            </td>
-            <td style="width: 20%;">
-                <img src="img/email.svg" alt="">
-                <a href="mailto:@hmg.pe" class="enlaces"> @hmg.pe</a>
-            </td>
-            <td style="width: 20%;">
-                Síguenos <img src="img/face.png" class="zoom enlaces"> <img src="img/in.jpeg" class="zoom"> <img src="img/face.png" class="zoom">
-            </td>
-        </tr>
-    </table>
-</div>
-
-
-<div class="font-weight-bold w-75 m-auto mobile" style="font-size: 0.9em;">
-    <center><img src="img/logo.svg" alt="" class="m-3"></center>
-    <div class="w-100 mx-auto my-2 border-bottom">
-        <img src="img/telefono2.png" alt="" class="d-inline-block">
-        <p class="d-inline-block">(511) 637 3070 / (511) 637 3072</p>
-    </div>
-    <div class="w-100 mx-auto my-2 border-bottom">
-        <img src="img/address.svg" alt="" class="d-inline-block">
-        <p class="d-inline-block"> Av. Benavides 1555 | Oficina<br> 304 Lima | Miraflores</p>
-    </div>
-    <div class="w-100 mx-auto my-2 border-bottom">
-        <img src="img/email.svg" alt="" class="d-inline-block">
-        <p class="d-inline-block">contacto@hmg.pe</p>
-    </div>
-</div>
+<?php include('includes/footer.php'); ?>
 
 
 

@@ -61,3 +61,12 @@ $(document).ready(function(){
     }
   }, 1000);
 });
+
+
+$('.btn_form').click(function(){
+  $('.start-form').addClass('shadow_azul');
+  setTimeout(function(){
+    $('.start-form').removeClass('shadow_azul');
+  }, 4000);
+
+});

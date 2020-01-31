@@ -77,7 +77,8 @@ input, textarea, select {
 }
 
 .text-indent-13{
-  text-indent: -13px;
+  text-indent: -28px;
+  margin-left: 14px;
 }
 
 .w-15{
@@ -202,9 +203,29 @@ input, textarea, select {
   background-color: #fff;
 }
 
+.mb-0{
+  margin-bottom: 0;
+}
+
+.shadow_azul{  
+  box-shadow: 0px 0px 64px #83BCCD;
+  animation: resplandorAnimation 4s;
+}
+
+@keyframes resplandorAnimation {
+  0%,100%{
+    box-shadow: 0px 0px 64px #83BCCD;
+  }
+  50%{
+  box-shadow: 0px 0px 0px #83BCCD;
+  
+  }
+
+}
+
 .text-biografia {
   color: #000;
-  font-size: 0.8em;
+  font-size: 1em;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -213,7 +234,7 @@ input, textarea, select {
   transform: translate(-50%, -50%);
   text-align: center;
   width: 100%;
-  padding: 5px;
+  padding: 10px 20px;
 }
 
 .tar:hover .overlay {
@@ -268,7 +289,7 @@ input, textarea, select {
   position: fixed;
   margin-top: 63px;
   width: 100%;
-  z-index: 1;
+  z-index: 1000;
   font-weight: 700;
   background: #FFFFFF;
   box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
@@ -464,7 +485,7 @@ input, textarea, select {
 
 .subtitulo {
   margin-left:200px;
-  margin-top: 100px;
+  margin-top: 42px;
  }
 
 .card-mentors {
@@ -481,7 +502,7 @@ input, textarea, select {
 
 .box {
   width: 200px;
-  height: 140px;
+  height: 179px;
   margin: 15px;
 }
 
@@ -597,7 +618,7 @@ footer div{
   .subtitulo {
     text-align: center;
     margin-left: 0px;
-    margin-top: 100px;
+    margin-top: 42px;
    }
 
   .txt {
@@ -697,4 +718,18 @@ footer div{
 
 .carousel-caption{
   bottom: 110px!important;
+}
+
+.app_actividades_sepa{
+  padding: 19px;
+  width: 71%;
+}
+
+.app_arrow_sep{
+  width: 50px!important;
+  margin-top: 37px;
+}
+
+.max_width_100{
+  max-width: 100%!important;
 }

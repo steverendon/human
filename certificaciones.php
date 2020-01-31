@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Escuela de coaching HG</title>
     <script src="js/jquery.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
@@ -93,32 +93,32 @@
     <br>
 
     <section class="section-2 w-75">
-        <p class="h3 font-weight-bold text-uppercase w-50 my-5  mb-6 text-indent-13"> ¿Qué recibirás para lograrlo?</p>
-        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Establecer y mantener una relación de confianza con el cliente.</p>
-        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Percibir, afirmar y expandir el potencial del cliente.</p>
-        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Escucha comprometida.</p>
-        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Procesar en el presente.</p>
-        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Expresar, la forma como se comunica el compromiso, dirección, intenciones e ideas.</p>
-        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Clarificar, reducir y eliminar la confusión que el cliente trae, aumentar la confianza y comprensión. Utilizar la indagación, preguntas poderosas.</p>
-        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Ayudar al cliente a establecer y mantener objetivos claros.</p>
-        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Abrirse e invitar a las posibilidades, crear un ambiente que permita emerger ideas, opciones, oportunidades. Alejarse de sus pensamientos limitantes o de temor, abandonar la zona de confort.</p>
-        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Ayudar al cliente a crear y usar estructuras y sistemas de apoyo, identificar relaciones, herramientas.</p>
+        <p class="h3 font-weight-bold text-uppercase w-50 my-5  mb-6 text-indent-13 titulo_respo"> &nbsp;&nbsp;¿Qué recibirás para lograrlo?</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Establecer y mantener una relación de confianza con el cliente.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Percibir, afirmar y expandir el potencial del cliente.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Escucha comprometida.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Procesar en el presente.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Expresar, la forma como se comunica el compromiso, dirección, intenciones e ideas.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Clarificar, reducir y eliminar la confusión que el cliente trae, aumentar la confianza y comprensión. Utilizar la indagación, preguntas poderosas.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Ayudar al cliente a establecer y mantener objetivos claros.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Abrirse e invitar a las posibilidades, crear un ambiente que permita emerger ideas, opciones, oportunidades. Alejarse de sus pensamientos limitantes o de temor, abandonar la zona de confort.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Ayudar al cliente a crear y usar estructuras y sistemas de apoyo, identificar relaciones, herramientas.</p>
 
         <br>
 
-        <p>Al completar el programa y aprobar las evaluaciones recibirás una doble Certificado como Coach Profesional a nombre de Human Growth Escuela de Coaching y Human Growth, consultora internacional de Gestión del Talento. Así mismo estarás listo para recibir la certificación de la International Association of Coaching (IAC).</p>
+        <p>Al completar el programa y aprobar las evaluaciones recibirás una doble certificación como Coach Profesional a nombre de Human Growth Escuela de Coaching y Human Growth, consultora internacional de Gestión del Talento. Así mismo estarás listo para recibir la certificación de la International Association of Coaching (IAC).</p>
 
         <br>
 
-        <button class="my-button">Descargar brochure &nbsp; <img src="img/descargar.png" class="icon_btn" alt="descargar"></button>
-        <button class="my-button" data-toggle="modal" data-target=".bd-example-modal-sm">ver cronograma &nbsp; <img src="img/calendar.png" class="icon_btn" alt="calendar"></button>
+        <a class="my-button" href="https://escueladecoaching-hg.la/pdf/Brochure_human_growth.pdf" target="_blank" style="padding: 15px;">Descargar brochure &nbsp; <img src="img/descargar.png" class="icon_btn" alt="descargar"></a>
+        <button class="my-button btn_respo_margin" data-toggle="modal" data-target=".bd-example-modal-sm">ver cronograma &nbsp; <img src="img/calendar.png" class="icon_btn" alt="calendar"></button>
 
         <br><br><br>
 
     </section>
 
-    <section class="section-3 w-75">
-        <div class="w-75 border-card">
+    <section class="section-3 w-75 app_responsive">
+        <div class="w-75 border-card app_responsive">
             <div class="row justify-content-center">
                 <div class="col-md-2">
                     <center><img src="img/certified.svg" alt="" class="mx-auto p-2 cer"></center>
@@ -126,7 +126,7 @@
                 <div class="col-md-8">
                     <p class="font-weight-bold text-uppercase text-capitalize"><b>Certificado Internacional</b></p>
                     <p class="">Aprendizaje social y colaborativo: Grupos privados para facilitar el aprendizaje interempresarial y las aplicaciones del mundo real.</p>
-                    <button class="my-button mt-2">ver Certificacíon</button>
+                    <a class="my-button mt-2" href="#footer">Contactar</a>
                 </div>
             </div>
          </div>
@@ -138,11 +138,11 @@
         <div class="benefits clearfix text-center">
             <div class="float-left box">
                 <img src="img/QueRecibirasParaLograrlo/1.svg" alt="" class="p-3">
-                <p class="py-2">1 proceso de coaching individual de 6 sesiones.</p>
+                <p class="py-2">1 proceso de coaching individual de 5 sesiones.</p>
             </div>
             <div class="float-left box">
                 <img src="img/QueRecibirasParaLograrlo/2.svg" alt="" class="p-3">
-                <p class="py-2">Encuentros centrales de dos días cada uno.</p>
+                <p class="py-2">3 Encuentros centrales de dos días cada uno.</p>
             </div>
             <div class="float-left box">
                 <img src="img/QueRecibirasParaLograrlo/3.svg" alt="" class="p-3">
@@ -170,7 +170,7 @@
             </div>
             <div class="float-left box">
                 <img src="img/QueRecibirasParaLograrlo/9.svg" alt="">
-                <p class="py-2">2 sesiones de mentiría profesional.</p>
+                <p class="py-2">2 sesiones de mentoría profesional.</p>
             </div>
         </div>
     </section>
@@ -179,10 +179,10 @@
 
     <section class="section-2">
 
-    <div class="friends-2 clearfix mobile" style="font-size: 0.9em;">
+    <div class="friends-2 clearfix mobile app_responsive" style="font-size: 0.9em;">
             <div class="tar float-left m-2">
                 <img src="img/coach1.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Gabriel pereira</strong></p>
                 <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
                 <div class="overlay">
                     <div class="text-biografia">
@@ -192,39 +192,38 @@
             </div>
             <div class="tar float-left m-2">
                 <img src="img/coach2.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">fernando loyola</strong></p>
                 <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
                 <div class="overlay">
                     <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    Coach y team coach certificado por la International Coaching Community (Inglaterra) y coach de innovación por Systematic Inventive Thinking (Israel). Magister en Administración de Negocios (MBA) por la Escuela de Posgrado de la Universidad Peruana de Ciencias Aplicadas. Máster en Gestión Estratégica del Factor Humano con mención en Consultoría Organizacional por la Escuela de Organización Industrial (EOI, España).
                     </div>
                 </div>
             </div>
             <div class="tar float-left m-2">
                 <img src="img/coach3.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Sandra Sato</strong></p>
                 <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
                 <div class="overlay">
                     <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    Coach Profesional certificado y acreditado por la International Coaching Institute– ICI de Alemania y la ICF – International Coaching Federation(USA), miembro de la AsociaciónPeruana de Coaching (APCO). Licenciataria en Benziger Thinking Styles Assessment (neuropsicología).
                     </div>
                 </div>
             </div>
             <div class="tar float-left m-2">
                 <img src="img/coach4.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Paul Isa</strong></p>
                 <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
                 <div class="overlay">
-                    <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    <div class="text-biografia">Coach profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Posee formación en Metodología de Coaching Ontológico en Miami-Florida. Es Licenciado en Psicología de la Universidad Nacional Federico Villarreal. Master en Psicoterapia Gestalt, recibiendo la certificación mediante el Esalen Institute Peru.
                     </div>
                 </div>
             </div>
         </div>
-        <div class="friends-2 clearfix animacion pc" style="font-size: 0.9em;">
+        <div class="friends-2 clearfix animacion responsive_none" style="font-size: 0.9em;">
             <div class="tar float-left m-2">
                 <img src="img/coach1.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Gabriel Pereira</strong></p>
                 <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
                 <div class="overlay">
                     <div class="text-biografia">
@@ -234,31 +233,30 @@
             </div>
             <div class="tar float-left m-2">
                 <img src="img/coach2.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Fernando Loyola</strong></p>
                 <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
                 <div class="overlay">
                     <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    Coach y team coach certificado por la International Coaching Community (Inglaterra) y coach de innovación por Systematic Inventive Thinking (Israel). Magister en Administración de Negocios (MBA) por la Escuela de Posgrado de la Universidad Peruana de Ciencias Aplicadas. Máster en Gestión Estratégica del Factor Humano con mención en Consultoría Organizacional por la Escuela de Organización Industrial (EOI, España).
                     </div>
                 </div>
             </div>
             <div class="tar float-left m-2">
                 <img src="img/coach3.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Sandra Sato</strong></p>
                 <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
                 <div class="overlay">
                     <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    Coach Profesional certificado y acreditado por la International Coaching Institute– ICI de Alemania y la ICF – International Coaching Federation(USA), miembro de la AsociaciónPeruana de Coaching (APCO). Licenciataria en Benziger Thinking Styles Assessment (neuropsicología).
                     </div>
                 </div>
             </div>
             <div class="tar float-left m-2">
                 <img src="img/coach4.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Paul Isa</strong></p>
                 <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
                 <div class="overlay">
-                    <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    <div class="text-biografia">Coach profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Posee formación en Metodología de Coaching Ontológico en Miami-Florida. Es Licenciado en Psicología de la Universidad Nacional Federico Villarreal. Master en Psicoterapia Gestalt, recibiendo la certificación mediante el Esalen Institute Peru.
                     </div>
                 </div>
             </div>
@@ -269,7 +267,26 @@
     <br>
 
 
-    <p class="font-weight-bold text-uppercase h3 p-3 subtitulo"><b>ellos confian</b> en nosotros</p>
+    <section class="section-2">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="tar app_actividades_sepa">
+                    <div class="row">
+                        <div class="col-9 col-md-10">
+                            <h4 class="color_azul_human">¡Participa de nuestras actividades!</h4>
+                            <p class="max_width_100">Ven entérate y participa de nuestras actividades con nuestro equipo de coach especialistas que te informarán acerca nuestro certificado.</p>
+                        </div>
+                        <div class="col-3 col-md-2">
+                            <img src="img/arrow.png" alt="arrow" class="app_arrow_sep">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- <p class="font-weight-bold text-uppercase h3 p-3 subtitulo"><b>ellos confian</b> en nosotros</p>
 
     <section class="section-2 fear1">
         <div class="friends">
@@ -282,9 +299,9 @@
                 <br>
             </div>
         </div>
-    </section>
+    </section> -->
 
-<section class="section-3 fear2">
+<!-- <section class="section-3 fear2">
     <div class="friends">
         <div>
             <img src="img/img40.png" alt="">
@@ -293,113 +310,11 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, in culpa qui officia deserunt.</p>
         </div>
     </div>
-</section>
+</section> -->
 
 <br><br>
 
-<div class="contacto pc">
-    <div class="w-75 m-auto">
-       <p class="font-weight-bold text-uppercase text-capitalize text-center"><b>comunícate con nosotros</b></p>
-       <div class="row jsutify-content-center">
-           <div class="col-lg-3 text-center border-card-2">
-               <img src="img/Group244.png" alt="" class="p-3">
-               <p class="font-weight-bold text-uppercase text-capitalize"><b>formulario</b></p>
-           </div>
-           <div class="col-lg-3 text-center border-card-2">
-               <img src="img/Group243.png" alt="" class="p-3">
-               <p class="font-weight-bold text-uppercase text-capitalize"><b>messenger</b></p>
-           </div>
-           <div class="col-lg-3 text-center border-card-2">
-               <img src="img/Group.png" alt="" class="p-3">
-               <p class="font-weight-bold text-uppercase text-capitalize"><b>whatsapp</b></p>
-           </div>
-           <div class="col-lg-3 text-center border-card-2">
-               <img src="img/telefono.png" alt="" class="p-3">
-               <p class="font-weight-bold text-uppercase text-capitalize"><b>llamada telefonica</b></p>
-           </div>
-       </div>
-    </div>
-   <div class="row justify-content-center franja-verde">
-       <div class="col-lg-3">
-           <p class="font-weight-bold text-uppercase text-capitalize pt-4 mt-1 pl-3"><b class="text-white"><img src="img/metododepago.png" alt=""></b></p>
-       </div>
-       <div class="col-lg-3">
-           <p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3 text-white"><b class="text-white"><img src="img/Group247.png" alt=""></b> |</p>
-       </div>
-       <div class="col-lg-3">
-           <p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3"><b class="text-white"><img src="img/Group248.png" alt=""></b></p>
-       </div>
-   </div>
-</div>
-
-<div class="pc">
-    <table class="w-100" style="font-size: 0.9em;">
-        <tr>
-            <td style="width: 20%;">
-                <img src="img/telephone.svg" alt="logo de telefono">
-                (511) 637 3070 / (511) 637 3072
-            </td>
-            <td style="width: 20%;">
-                <img src="img/address.svg" alt="logo de edificio">
-                <span class="float-right px-1">Benavides 1555 | Oficina 304<br> Lima | Miraflores</span> 
-            </td>
-            <td style="width: 20%;">
-                <img src="img/logo.svg" alt="" class="p-4">
-            </td>
-            <td style="width: 20%;">
-                <img src="img/email.svg" alt="">
-                contacto@hmg.pe
-            </td>
-            <td style="width: 20%;">
-                Síguenos
-            </td>
-        </tr>
-    </table>
-</div>
-<div class="pc p-4 text-center">
-    <table class="" style="font-size: 0.9em; width: 100%; margin: auto;">
-        <tr>
-            <td style="width: 20%;">
-                <img src="img/telephone.svg" alt="logo de telefono">
-                <a href="tel:637 3070" class=" enlaces">637 3070 / (511) 637 3072</a> 
-                <div class="linea w-75 mx-auto"></div>
-            </td>
-            <td style="width: 20%;">
-                <img src="img/address.svg" alt="logo de edificio">
-                <span class="float-right px-1"><a href="#" class="enlaces">Benavides 1555 | Oficina 304<br> Lima | Miraflores</a></span> 
-            </td>
-            <td style="width: 20%;">
-                <img src="img/logo.svg" alt="" class="p-4">
-            </td>
-            <td style="width: 20%;">
-                <img src="img/email.svg" alt="">
-                <a href="mailto:@hmg.pe" class="enlaces"> @hmg.pe</a>
-            </td>
-            <td style="width: 20%;">
-                Síguenos <img src="img/face.png" class="zoom enlaces"> <img src="img/in.jpeg" class="zoom"> <img src="img/face.png" class="zoom">
-            </td>
-        </tr>
-    </table>
-</div>
-
-
-<!-- mobile -->
-
-<div class="font-weight-bold w-75 m-auto mobile" style="font-size: 0.9em;">
-    <center><img src="img/logo.svg" alt="" class="m-3"></center>
-    <div class="w-100 mx-auto my-2 border-bottom">
-        <img src="img/telefono2.png" alt="" class="d-inline-block">
-        <p class="d-inline-block">(511) 637 3070 / (511) 637 3072</p>
-    </div>
-    <div class="w-100 mx-auto my-2 border-bottom">
-        <img src="img/address.svg" alt="" class="d-inline-block">
-        <p class="d-inline-block"> Av. Benavides 1555 | Oficina<br> 304 Lima | Miraflores</p>
-    </div>
-    <div class="w-100 mx-auto my-2 border-bottom">
-        <img src="img/email.svg" alt="" class="d-inline-block">
-        <p class="d-inline-block">contacto@hmg.pe</p>
-    </div>
-</div>
+<?php include('includes/footer.php'); ?>
 
 <div class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-xl">

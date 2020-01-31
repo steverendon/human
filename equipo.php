@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Escuela de coaching HG</title>
     <script src="js/jquery.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
@@ -77,199 +77,92 @@
     <br><br><br>
 
    
+    <?php include('includes/footer.php'); ?>
 
-    <div class="contacto pc">
-        <div class="w-75 m-auto">
-           <p class="font-weight-bold text-uppercase text-capitalize text-center"><strong class="color_azul_human fs-25">comunícate con nosotros</strong></p>
-           <div class="row jsutify-content-center">
-               <div class="col-lg-3 text-center border-card-2">
-                   <img src="img/Group244.png" alt="" class="p-3">
-                   <p class="font-weight-bold text-uppercase text-capitalize"><b>formulario</b></p>
-               </div>
-               <div class="col-lg-3 text-center border-card-2">
-                   <img src="img/Group243.png" alt="" class="p-3">
-                   <p class="font-weight-bold text-uppercase text-capitalize"><b>messenger</b></p>
-               </div>
-               <div class="col-lg-3 text-center border-card-2">
-                   <img src="img/Group.png" alt="" class="p-3">
-                   <p class="font-weight-bold text-uppercase text-capitalize"><b>whatsapp</b></p>
-               </div>
-               <div class="col-lg-3 text-center border-card-2">
-                   <img src="img/telefono.png" alt="" class="p-3">
-                   <p class="font-weight-bold text-uppercase text-capitalize"><b>llamada telefonica</b></p>
-               </div>
-           </div>
+
+  <div class="modal fade bd-example-modal-sm-1" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+      <div class="modal-content m-2">
+        <div class="d-flex justify-content-end m-2">
+            <button type="button" class="close float-end" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
         </div>
-       <div class="row justify-content-center franja-verde">
-           <div class="col-lg-3">
-               <p class="font-weight-bold text-uppercase text-capitalize pt-4 mt-1 pl-3"><b class="text-white"><img src="img/metododepago.png" alt=""></b></p>
-           </div>
-           <div class="col-lg-3">
-               <p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3 text-white"><b class="text-white"><img src="img/Group247.png" alt=""></b> |</p>
-           </div>
-           <div class="col-lg-3">
-               <p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3"><b class="text-white"><img src="img/Group248.png" alt=""></b></p>
-           </div>
-       </div>
-    </div>
-
-    <div class="pc">
-        <table class="w-100" style="font-size: 0.9em;">
-            <tr>
-                <td style="width: 20%;">
-                    <img src="img/telephone.svg" alt="logo de telefono">
-                    (511) 637 3070 / (511) 637 3072
-                </td>
-                <td style="width: 20%;">
-                    <img src="img/address.svg" alt="logo de edificio">
-                    <span class="float-right px-1">Benavides 1555 | Oficina 304<br> Lima | Miraflores</span> 
-                </td>
-                <td style="width: 20%;">
-                    <img src="img/logo.svg" alt="" class="p-4">
-                </td>
-                <td style="width: 20%;">
-                    <img src="img/email.svg" alt="">
-                    contacto@hmg.pe
-                </td>
-                <td style="width: 20%;">
-                    Síguenos <img src="img/face.png"> <img src="img/insta.png"> <img src="img/face.png">
-                </td>
-            </tr>
-        </table>
-    </div>
-
-    <div class="pc p-4 text-center">
-        <table class="" style="font-size: 0.9em; width: 100%; margin: auto;">
-            <tr>
-                <td style="width: 20%;">
-                    <img src="img/telephone.svg" alt="logo de telefono">
-                    <a href="tel:637 3070" class=" enlaces">637 3070 / (511) 637 3072</a> 
-                    <div class="linea w-75 mx-auto"></div>
-                </td>
-                <td style="width: 20%;">
-                    <img src="img/address.svg" alt="logo de edificio">
-                    <span class="float-right px-1"><a href="#" class="enlaces">Benavides 1555 | Oficina 304<br> Lima | Miraflores</a></span> 
-                </td>
-                <td style="width: 20%;">
-                    <img src="img/logo.svg" alt="" class="p-4">
-                </td>
-                <td style="width: 20%;">
-                    <img src="img/email.svg" alt="">
-                    <a href="mailto:@hmg.pe" class="enlaces"> @hmg.pe</a>
-                </td>
-                <td style="width: 20%;">
-                    Síguenos <img src="img/face.png" class="zoom enlaces"> <img src="img/in.jpeg" class="zoom"> <img src="img/face.png" class="zoom">
-                </td>
-            </tr>
-        </table>
-    </div>
-    
-
-
-    <!-- mobile -->
-
-
-    <div class="font-weight-bold w-75 m-auto mobile" style="font-size: 0.9em;">
-        <center><img src="img/logo.svg" alt="" class="m-3"></center>
-        <div class="w-100 mx-auto my-2 border-bottom">
-            <img src="img/telefono2.png" alt="" class="d-inline-block">
-            <p class="d-inline-block">(511) 637 3070 / (511) 637 3072</p>
-        </div>
-        <div class="w-100 mx-auto my-2 border-bottom">
-            <img src="img/address.svg" alt="" class="d-inline-block">
-            <p class="d-inline-block"> Av. Benavides 1555 | Oficina<br> 304 Lima | Miraflores</p>
-        </div>
-        <div class="w-100 mx-auto my-2 border-bottom">
-            <img src="img/email.svg" alt="" class="d-inline-block">
-            <p class="d-inline-block">contacto@hmg.pe</p>
-        </div>
-    </div>
-
-
-
-         <div class="modal fade bd-example-modal-sm-1" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-sm">
-              <div class="modal-content m-2">
-                <div class="d-flex justify-content-end m-2">
-                    <button type="button" class="close float-end" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                  <div class="modal-body">
-                    <div class="tar float-left m-2" data-toggle="modal" data-target=".bd-example-modal-sm">
-                        <img src="img/coach1.jpeg" alt="">
-                        <p class="text-capitalize font-weight-bold text-center p-2"><b>Gabriel Pereira</b></p>
-                        <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
-                        <p class="px-2 text-center">Coach Profesional certificado por la International Coaching Community. Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Consultor especializado en liderazgo, cultura y desarrollo organizacional. Es teólogo por la Facultad de Teología Pontificia y Civil de Lima. Realizó sus estudios de especialización en Antropología Filosófica y Teológica en la Universidad</p>
-                    </div>
-                  </div>
-              </div>
+          <div class="modal-body">
+            <div class="tar float-left m-2" data-toggle="modal" data-target=".bd-example-modal-sm">
+                <img src="img/coach1.jpeg" alt="">
+                <p class="text-capitalize font-weight-bold text-center p-2"><b>Gabriel Pereyra</b></p>
+                <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="px-2 text-center">Fundador y Director de Human Growth. Coach Profesional certificado por la International Coaching Community. Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Consultor especializado en liderazgo, cultura y desarrollo organizacional. Es teólogo por la Facultad de Teología Pontificia y Civil de Lima. Realizó sus estudios de especialización en Antropología Filosófica y Teológica en la Universidad Gregoriana en Roma. Es Magíster en Administración Estratégica de Empresas (MBA). Es Máster en Liderazgo por EADA-Barcelona. Certificado en Benziger Thinking Styles Assessment (neuropisología), Hogan Personality Inventory, ADVanced Insights Profiles y en Gestión Cultural por el Barret Values Center (USA). Su experiencia en coaching abarca procesos realizados a la primera línea de empresas como Kimberly Clark, Unilever, Claro, Cencosud, Owens Illinois, Johnson&Johnson, Rimac, Banbif, Compartamos, Sigma, Grupo Vilaseca, El Comercio, entre otros.</p>
             </div>
           </div>
+      </div>
+    </div>
+  </div>
 
-          <div class="modal fade bd-example-modal-sm-2" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-sm">
-              <div class="modal-content m-2">
-                <div class="d-flex justify-content-end m-2">
-                    <button type="button" class="close float-end" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                  <div class="modal-body">
-                    <div class="tar float-left m-2" data-toggle="modal" data-target=".bd-example-modal-sm">
-                        <img src="img/coach2.jpeg" alt="">
-                        <p class="text-capitalize font-weight-bold text-center p-2"><b>Fernando Loyola </b></p>
-                        <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
-                        <p class="px-2 text-center">Coach Profesional certificado por la International Coaching Community. Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Consultor especializado en liderazgo, cultura y desarrollo organizacional. Es teólogo por la Facultad de Teología Pontificia y Civil de Lima. Realizó sus estudios de especialización en Antropología Filosófica y Teológica en la Universidad</p>
-                    </div>
-                  </div>
-              </div>
+  <div class="modal fade bd-example-modal-sm-2" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+      <div class="modal-content m-2">
+        <div class="d-flex justify-content-end m-2">
+            <button type="button" class="close float-end" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+          <div class="modal-body">
+            <div class="tar float-left m-2" data-toggle="modal" data-target=".bd-example-modal-sm">
+                <img src="img/coach2.jpeg" alt="">
+                <p class="text-capitalize font-weight-bold text-center p-2"><b>Fernando Loyola </b></p>
+                <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="px-2 text-center">Coach y team coach certificado por la International Coaching Community (Inglaterra) y coach de innovación por Systematic Inventive Thinking (Israel). Magister en Administración de Negocios (MBA) por la Escuela de Posgrado de la Universidad Peruana de Ciencias Aplicadas. Máster en Gestión Estratégica del Factor Humano con mención en Consultoría Organizacional por la Escuela de Organización Industrial (EOI, España). Licenciado en Psicología Social por la Pontificia Universidad Católica del Perú. Certificado en la metodología CoachingxValores (España). 20 años de experiencia desempeñándose en áreas de consultoría, gestión de servicios educativos, desarrollo, aprendizaje y cambio organizacional en procesos y proyectos a nivel regional. Ha sido Director Adjunto de Calidad Educativa para la UPC y Director Asociado en CADDEPRO. Autor del libro "Diseña tu carrera" (Editorial UPC, 2017, ECOE Ediciones, 2019).</p>
             </div>
           </div>
+      </div>
+    </div>
+  </div>
 
-          <div class="modal fade bd-example-modal-sm-3" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-sm">
-              <div class="modal-content m-2">
-                <div class="d-flex justify-content-end m-2">
-                    <button type="button" class="close float-end" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                  <div class="modal-body">
-                    <div class="tar float-left m-2" data-toggle="modal" data-target=".bd-example-modal-sm">
-                        <img src="img/coach3.jpeg" alt="">
-                        <p class="text-capitalize font-weight-bold text-center p-2"><b>Sandra Sato</b></p>
-                        <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
-                        <p class="px-2 text-center">Coach Profesional certificado por la International Coaching Community. Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Consultor especializado en liderazgo, cultura y desarrollo organizacional. Es teólogo por la Facultad de Teología Pontificia y Civil de Lima. Realizó sus estudios de especialización en Antropología Filosófica y Teológica en la Universidad</p>
-                    </div>
-                  </div>
-              </div>
+  <div class="modal fade bd-example-modal-sm-3" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+      <div class="modal-content m-2">
+        <div class="d-flex justify-content-end m-2">
+            <button type="button" class="close float-end" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+          <div class="modal-body">
+            <div class="tar float-left m-2" data-toggle="modal" data-target=".bd-example-modal-sm">
+                <img src="img/coach3.jpeg" alt="">
+                <p class="text-capitalize font-weight-bold text-center p-2"><b>Sandra Sato</b></p>
+                <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="px-2 text-center">Es Consultora Senior en Human Growth, Gerente de Recursos Humanos en Drimer y Profesora en Centrum. Es coach personal y profesional certificado y acreditado por la International Coaching Institute – ICI de Alemania. Magister en Filósofía y Teólogía  con estudios en Administración de Empresas. Licenciatario en Benziger Thinking Styles Assessment (neuropsicología).  Team Coach por Kantor Institute (USA) y Desing Thinking por la HEC de Paris. En el pasado ha sido directora de una asociación cultural, coach personal y ejecutivo independiente con más de  20 años de experiencia, gestora  de diversos programas de Liderazgo Integral y consultor internacional en el área de capital humano y gestión cultural en Perú, Colombia, Inglaterra, Italia, Australia y Estados Unidos. Ha realizado procesos de Coaching y Consultoría Organizacional en empresas como Rimac, Banbif, Sunat, Osiptel, Compartamos entre otros.Ha publicado los libros: “El Fondo del Cañon” y “Una Apuesta por el Futuro” de Círculo de Encuentro.</p>
             </div>
           </div>
+      </div>
+    </div>
+  </div>
 
-          <div class="modal fade bd-example-modal-sm-4" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-sm">
-              <div class="modal-content m-2">
-                <div class="d-flex justify-content-end m-2">
-                    <button type="button" class="close float-end" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                  <div class="modal-body">
-                    <div class="tar float-left m-2" data-toggle="modal" data-target=".bd-example-modal-sm">
-                        <img src="img/coach4.jpeg" alt="">
-                        <p class="text-capitalize font-weight-bold text-center p-2"><b>Paul Isa</b></p>
-                        <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
-                        <p class="px-2 text-center">Coach Profesional certificado por la International Coaching Community. Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Consultor especializado en liderazgo, cultura y desarrollo organizacional. Es teólogo por la Facultad de Teología Pontificia y Civil de Lima. Realizó sus estudios de especialización en Antropología Filosófica y Teológica en la Universidad</p>
-                    </div>
-                  </div>
-              </div>
+  <div class="modal fade bd-example-modal-sm-4" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+      <div class="modal-content m-2">
+        <div class="d-flex justify-content-end m-2">
+            <button type="button" class="close float-end" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+          <div class="modal-body">
+            <div class="tar float-left m-2" data-toggle="modal" data-target=".bd-example-modal-sm">
+                <img src="img/coach4.jpeg" alt="">
+                <p class="text-capitalize font-weight-bold text-center p-2"><b>Paul Isa</b></p>
+                <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="px-2 text-center">Coach profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Posee formación en Metodología de Coaching Ontológico en Miami-Florida. Es Licenciado en Psicología de la Universidad Nacional Federico Villarreal. Master en Psicoterapia Gestalt, recibiendo la certificación mediante el Esalen Institute Peru. Cuenta con 15 años de amplia experiencia facilitando procesos de aprendizaje experiencial,  outdoore indoor training, desarrollando competencias alineadas al trabajo en equipo, control emocional, comunicación, atención al cliente, autoconocimiento, entre otras. Especialista en potencialidades personales, trabajo corporal y manejo de estrés. Especial énfasis en la expresión de las emociones, canalización y uso de estas como recurso.</p>
             </div>
           </div>
+      </div>
+    </div>
+  </div>
         
 
 
-    <script src="js/functions.js"></script>
+  <script src="js/functions.js"></script>
 
 
     

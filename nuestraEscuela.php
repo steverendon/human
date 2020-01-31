@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Escuela de coaching HG</title>
     <script src="js/jquery.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
@@ -65,10 +65,10 @@
 
         <table class="w-100">
             <tr>
-                <td><img width="160" class="p-2" src="img/logo2.png" alt=""></td>
+                <td class="responsive_none"><img width="160" class="p-2" src="img/logo2.png" alt=""></td>
                 <td>
-                    <p class="p-2 ml-4 w-75 text-justify">Somos una escuela de coaching que busca llevar el mundo de la antropología a la transformación personal y organizacional. Nacemos de años de experiencia en el mundo del coaching y la consultoría empresarial en gestión de talento. Con sedes en Perú y Ecuador, <strong class="color_azul_human">Human Growth ha acompañado en el desarrollo y transformación a más de 10 mil profesionales</strong> de distintas empresas. Por ello estamos convencidos que la antropología tiene mucho que aportar en el mundo del crecimiento personal y que el coaching es un gran camino para hacerlo. Juntos, coaching y antropología son una gran combinación. Así nace XXXX (nuestro nombre) El coaching es un arte y como tal se perfecciona con el tiempo y la práctica. Por ello todos nuestros formadores son coaches que tienen años de experiencia profesional y han acompañado a cientos de personas en procesos de desarrollo personal y laboral. Nuestra metodología asegura que puedas aprender de su trayectoria.</p>
-                    <a class="text-uppercase pl-2 ml-4 font-weight-bold" href="https://humangrowth.pe/" target="_blank"><strong class="color_azul_human">VER HUMAN GROWTH CONSULTORIA</strong> <img src="img/arrow.png" alt=""></a>
+                    <p class="p-2 ml-4 w-75 table_responsive text-justify">Somos una escuela de coaching que busca llevar el mundo de la antropología a la transformación personal y organizacional. Nacemos de años de experiencia en el mundo del coaching y la consultoría empresarial en gestión de talento. Con sedes en Perú y Ecuador, <strong class="color_azul_human">Human Growth ha acompañado en el desarrollo y transformación a más de 10 mil profesionales</strong> de distintas empresas. Por ello estamos convencidos que la antropología tiene mucho que aportar en el mundo del crecimiento personal y que el coaching es un gran camino para hacerlo. Juntos, coaching y antropología son una gran combinación.</p>
+                    <a class="text-uppercase pl-2 ml-4 font-weight-bold" href="https://humangrowth.pe/" target="_blank"><strong class="color_azul_human">VER HUMAN GROWTH CONSULTORIA</strong> <img src="img/arrow.png" alt="" class="responsive_none"></a>
                 </td>
             </tr>
 
@@ -78,10 +78,10 @@
 
         <table class="w-100">
             <tr>
-                <td><img width="160" class="p-2" src="img/logo3.png" alt=""></td>
+                <td class="responsive_none"><img width="160" class="p-2" src="img/logo3.png" alt=""></td>
                 <td>
                     <p class="font-weight-bold text-uppercase ml-5 w-50"><h4 class=""><strong class="app_padding_title fs_24px">Nuestro equipo</strong></h4></p>
-                    <p class="p-2 ml-4 w-75">El coaching es un arte y como tal se perfecciona con el tiempo y la práctica. Por ello <strong class="color_azul_human">todos nuestros formadores son coaches que tienen años de experiencia profesional</strong>, a nivel internacional, y han acompañado a cientos de personas en procesos de desarrollo personal y laboral. Nuestra metodología asegura que puedas aprender de su trayectoria.</p>
+                    <p class="p-2 ml-4 w-75 table_responsive">El coaching es un arte y como tal se perfecciona con el tiempo y la práctica. Por ello <strong class="color_azul_human">todos nuestros formadores son coaches que tienen años de experiencia profesional</strong>, a nivel internacional, y han acompañado a cientos de personas en procesos de desarrollo personal y laboral. Nuestra metodología asegura que puedas aprender de su trayectoria.</p>
                     <div class="ml-4 pl-2">
                         <a class="my-button" href="http://escueladecoaching-hg.la/equipo.php">nuestro equipo</a>
                     </div>
@@ -137,94 +137,7 @@
     </div>
     </div>
 
-        <div class="contacto pc">
-            <div class="w-75 m-auto">
-               <p class="font-weight-bold text-uppercase text-capitalize text-center"><b>comunícate con nosotros</b></p>
-               <div class="row jsutify-content-center">
-                   <div class="col-lg-3 text-center border-card-2">
-                       <img src="img/Group244.png" alt="" class="p-3">
-                       <p class="font-weight-bold text-uppercase text-capitalize"><b>formulario</b></p>
-                   </div>
-                   <div class="col-lg-3 text-center border-card-2">
-                       <img src="img/Group243.png" alt="" class="p-3">
-                       <p class="font-weight-bold text-uppercase text-capitalize"><b>messenger</b></p>
-                   </div>
-                   <div class="col-lg-3 text-center border-card-2">
-                       <img src="img/Group.png" alt="" class="p-3">
-                       <p class="font-weight-bold text-uppercase text-capitalize"><b>whatsapp</b></p>
-                   </div>
-                   <div class="col-lg-3 text-center border-card-2">
-                       <img src="img/telefono.png" alt="" class="p-3">
-                       <p class="font-weight-bold text-uppercase text-capitalize"><b>llamada telefonica</b></p>
-                   </div>
-               </div>
-            </div>
-           <div class="row justify-content-center franja-verde">
-               <div class="col-lg-3">
-                   <p class="font-weight-bold text-uppercase text-capitalize pt-4 mt-1 pl-3"><b class="text-white"><img src="img/metododepago.png" alt=""></b></p>
-               </div>
-               <div class="col-lg-3">
-                   <p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3 text-white"><b class="text-white"><img src="img/Group247.png" alt=""></b> |</p>
-               </div>
-               <div class="col-lg-3">
-                   <p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3"><b class="text-white"><img src="img/Group248.png" alt=""></b></p>
-               </div>
-           </div>
-        </div>
-
-        <br><br>
-
-        <div class="pc p-4 text-center">
-            <table class="" style="font-size: 0.9em; width: 100%; margin: auto;">
-                <tr>
-                    <td style="width: 20%;">
-                        <img src="img/telephone.svg" alt="logo de telefono">
-                        <a href="tel:637 3070" class=" enlaces">637 3070 / (511) 637 3072</a> 
-                        <div class="linea w-75 mx-auto"></div>
-                    </td>
-                    <td style="width: 20%;">
-                        <img src="img/address.svg" alt="logo de edificio">
-                        <span class="float-right px-1"><a href="#" class="enlaces">Benavides 1555 | Oficina 304<br> Lima | Miraflores</a></span> 
-                    </td>
-                    <td style="width: 20%;">
-                        <img src="img/logo.svg" alt="" class="p-4">
-                    </td>
-                    <td style="width: 20%;">
-                        <img src="img/email.svg" alt="">
-                        <a href="mailto:@hmg.pe" class="enlaces"> @hmg.pe</a>
-                    </td>
-                    <td style="width: 20%;">
-                        Síguenos <img src="img/face.png" class="zoom enlaces"> <img src="img/in.jpeg" class="zoom"> <img src="img/face.png" class="zoom">
-                    </td>
-                </tr>
-            </table>
-        </div>
-
-
-        <!-- mobile -->
-
-        <div class="mobile p-5">
-            <p class="h2 font-weight-bold text-uppercase w-50 text-center m-auto"><b>nuestra escuela</b></p>
-            <p class="text-center mt-5">Somos una escuela de coaching que busca llevar el mundo de la antropología a la transformación personal y organizacional. Nacemos de años de experiencia en el mundo del coaching y la consultoría empresarial en gestión de talento. Con sedes en Perú y Ecuador, Human Growth ha acompañado en el desarrollo y transformación a más de 10 mil profesionales de distintas empresas. Por ello estamos convencidos que la antropología tiene mucho que aportar en el mundo del crecimiento personal y que el coaching es un gran camino para hacerlo. Juntos, coaching y antropología son una gran combinación. Así nace XXXX (nuestro nombre) El coaching es un arte y como tal se perfecciona con el tiempo y la práctica. Por ello todos nuestros formadores son coaches que tienen años de experiencia profesional y han acompañado a cientos de personas en procesos de desarrollo personal y laboral. Nuestra metodología asegura que puedas aprender de su trayectoria.</p>
-        </div>
-
-        <div class="font-weight-bold w-75 m-auto mobile" style="font-size: 0.9em;">
-            <center><img src="img/logo.svg" alt="" class="m-3"></center>
-            <div class="w-100 mx-auto my-2 border-bottom">
-                <img src="img/telefono2.png" alt="" class="d-inline-block">
-                <p class="d-inline-block">(511) 637 3070 / (511) 637 3072</p>
-            </div>
-            <div class="w-100 mx-auto my-2 border-bottom">
-                <img src="img/address.svg" alt="" class="d-inline-block">
-                <p class="d-inline-block"> Av. Benavides 1555 | Oficina<br> 304 Lima | Miraflores</p>
-            </div>
-            <div class="w-100 mx-auto my-2 border-bottom">
-                <img src="img/email.svg" alt="" class="d-inline-block">
-                <p class="d-inline-block">contacto@hmg.pe</p>
-            </div>
-        </div>
-         
-        
+     <?php include('includes/footer.php'); ?>
 
 
     
