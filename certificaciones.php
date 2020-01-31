@@ -176,52 +176,12 @@
         </div>
     </section>
 
-    <p class="font-weight-bold text-uppercase h3 p-3 subtitulo"><b>nuestros mentores</b></p>
+    <p class="font-weight-bold text-uppercase h3 p-3 subtitulo pc"><b>nuestros mentores</b></p>
 
     <section class="section-2">
 
-    <div class="friends-2 clearfix mobile" style="font-size: 0.9em;">
-            <div class="tar float-left m-2">
-                <img src="img/coach1.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
-                <div class="overlay">
-                    <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
-                    </div>
-                </div>
-            </div>
-            <div class="tar float-left m-2">
-                <img src="img/coach2.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
-                <div class="overlay">
-                    <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
-                    </div>
-                </div>
-            </div>
-            <div class="tar float-left m-2">
-                <img src="img/coach3.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
-                <div class="overlay">
-                    <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
-                    </div>
-                </div>
-            </div>
-            <div class="tar float-left m-2">
-                <img src="img/coach4.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
-                <div class="overlay">
-                    <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
-                    </div>
-                </div>
-            </div>
-        </div>
+        
+
         <div class="friends-2 clearfix animacion pc" style="font-size: 0.9em;">
             <div class="tar float-left m-2">
                 <img src="img/coach1.jpeg" alt="" class="p-2">
@@ -302,36 +262,36 @@
     <div class="w-75 m-auto">
        <p class="font-weight-bold text-uppercase text-capitalize text-center"><b>comunícate con nosotros</b></p>
        <div class="row jsutify-content-center">
-           <div class="col-lg-3 text-center border-card-2">
+           <div class="col-lg-3 text-center border-card-2 img-hover">
                <img src="img/Group244.png" alt="" class="p-3">
-               <p class="font-weight-bold text-uppercase text-capitalize"><b>formulario</b></p>
+               <p class="font-weight-bold text-uppercase text-capitalize"><b><a href="">formulario</a></b></p>
            </div>
-           <div class="col-lg-3 text-center border-card-2">
+           <div class="col-lg-3 text-center border-card-2 img-hover">
                <img src="img/Group243.png" alt="" class="p-3">
-               <p class="font-weight-bold text-uppercase text-capitalize"><b>messenger</b></p>
+               <p class="font-weight-bold text-uppercase text-capitalize"><b><a href="">messenger</a></b></p>
            </div>
-           <div class="col-lg-3 text-center border-card-2">
+           <div class="col-lg-3 text-center border-card-2 img-hover">
                <img src="img/Group.png" alt="" class="p-3">
-               <p class="font-weight-bold text-uppercase text-capitalize"><b>whatsapp</b></p>
+               <p class="font-weight-bold text-uppercase text-capitalize"><b><a href="">whatsapp</a></b></p>
            </div>
-           <div class="col-lg-3 text-center border-card-2">
+           <div class="col-lg-3 text-center border-card-2 img-hover">
                <img src="img/telefono.png" alt="" class="p-3">
-               <p class="font-weight-bold text-uppercase text-capitalize"><b>llamada telefonica</b></p>
+               <p class="font-weight-bold text-uppercase text-capitalize"><b><a href="">llamada telefonica</a></b></p>
            </div>
        </div>
     </div>
-   <div class="row justify-content-center franja-verde">
-       <div class="col-lg-3">
-           <p class="font-weight-bold text-uppercase text-capitalize pt-4 mt-1 pl-3"><b class="text-white"><img src="img/metododepago.png" alt=""></b></p>
+    <div class="row justify-content-center franja-verde">
+           <div class="col-lg-3">
+               <p class="font-weight-bold text-uppercase text-capitalize pt-4 mt-1 pl-3"><b class="text-white"><img src="img/metododepago.png" alt=""></b></p>
+           </div>
+           <div class="col-lg-3 text-hover">
+           <a href=""><p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3 text-white"><b class="text-white"><img src="img/Group247.png" alt=""></b> |</p></a>
+           </div>
+           <div class="col-lg-3 text-hover">
+               <a href=""><p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3"><b class="text-white"><img src="img/Group248.png" alt=""></b></p></a>
+           </div>
        </div>
-       <div class="col-lg-3">
-           <p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3 text-white"><b class="text-white"><img src="img/Group247.png" alt=""></b> |</p>
-       </div>
-       <div class="col-lg-3">
-           <p class="font-weight-bold text-uppercase text-capitalize pt-3 pl-3"><b class="text-white"><img src="img/Group248.png" alt=""></b></p>
-       </div>
-   </div>
-</div>
+    </div>
 
 <div class="pc">
     <table class="w-100" style="font-size: 0.9em;">
@@ -430,62 +390,89 @@
                                 <span class="float-right" data-dismiss="modal" aria-label="Close" style="cursor:pointer">X</span></p>
                                 <div class="row text-center" style="font-size:1.5em">
                                     <div class="col-md-3">
-                                        <div class="p-4 m-4 border-card casillas">
+                                        <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>enero</p>
+                                            <div class="circulos">
+                                                <div class="circulo-rojo"></div>
+                                                <div class="circulo-naranja"></div>
+                                                <div class="circulo-azul"></div>
+                                                <div class="circulo-amarillo"></div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
-                                    <div class="p-4 m-4 border-card casillas">
+                                    <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>febrero</p>
+                                            <div class="circulos">
+                                                <div class="circulo-rojo"></div>
+                                                <div class="circulo-naranja"></div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
-                                    <div class="p-4 m-4 border-card casillas">
+                                    <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>marzo</p>
+                                            <div class="circulos">
+                                                <div class="circulo-rojo"></div>
+                                                <div class="circulo-naranja"></div>
+                                                <div class="circulo-azul"></div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
-                                    <div class="p-4 m-4 border-card casillas">
+                                    <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>abril</p>
+                                            <div class="circulos">
+                                                <div class="circulo-rojo"></div>
+                                                <div class="circulo-naranja"></div>
+                                                <div class="circulo-azul"></div>
+                                                <div class="circulo-amarillo"></div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
                                     <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>mayo</p>
+                                            <div class="circulos">
+                                                <div class="circulo-rojo"></div>
+                                                <div class="circulo-naranja"></div>
+                                                <div class="circulo-azul"></div>
+                                                <div class="circulo-amarillo"></div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
-                                    <div class="p-4 m-4 border-card casillas">
+                                    <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>junio</p>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
-                                    <div class="p-4 m-4 border-card casillas">
+                                    <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>julio</p>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
-                                    <div class="p-4 m-4 border-card casillas">
+                                    <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>agosto</p>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
-                                    <div class="p-4 m-4 border-card casillas">
+                                    <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>septiembre</p>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
-                                    <div class="p-4 m-4 border-card casillas">
+                                    <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>octubre</p>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
-                                    <div class="p-4 m-4 border-card casillas">
+                                    <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>noviembre</p>
                                         </div>
                                     </div>
                                     <div class="col-md-3">
-                                    <div class="p-4 m-4 border-card casillas">
+                                    <div class="p-4 m-4 border-card casillas" data-dismiss="modal" data-toggle="modal" data-target=".bd-example-modal-3">
                                             <p>diciembre</p>
                                         </div>
                                     </div>
