@@ -93,17 +93,16 @@
     <br>
 
     <section class="section-2 w-75">
-        <p class="h3 font-weight-bold text-uppercase w-50 my-5">¿Qué recibirás para lograrlo?</p>
-        <p><img src="img/check.png"> Establecer y mantener una relación de confianza con el cliente.</p>
-        <p><img src="img/check.png" alt="" srcset=""> Establecer y mantener una relación de confianza con el cliente.</p>
-        <p><img src="img/check.png" alt="" srcset=""> Percibir, afirmar y expandir el potencial del cliente.</p>
-        <p><img src="img/check.png" alt="" srcset=""> Escucha comprometida.</p>
-        <p><img src="img/check.png" alt="" srcset=""> Procesar en el presente.</p>
-        <p><img src="img/check.png" alt="" srcset=""> Expresar, la forma como se comunica el compromiso, dirección, intenciones e ideas.</p>
-        <p><img src="img/check.png" alt="" srcset=""> Clarificar, reducir y eliminar la confusión que el cliente trae, aumentar la confianza y comprensión. Utilizar la indagación, preguntas poderosas.</p>
-        <p><img src="img/check.png" alt="" srcset=""> Ayudar al cliente a establecer y mantener objetivos claros.</p>
-        <p><img src="img/check.png" alt="" srcset=""> Abrirse e invitar a las posibilidades, crear un ambiente que permita emerger ideas, opciones, oportunidades. Alejarse de sus pensamientos limitantes o de temor, abandonar la zona de confort.</p>
-        <p><img src="img/check.png" alt="" srcset=""> Ayudar al cliente a crear y usar estructuras y sistemas de apoyo, identificar relaciones, herramientas.</p>
+        <p class="h3 font-weight-bold text-uppercase w-50 my-5  mb-6 text-indent-13"> ¿Qué recibirás para lograrlo?</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Establecer y mantener una relación de confianza con el cliente.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Percibir, afirmar y expandir el potencial del cliente.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Escucha comprometida.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Procesar en el presente.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Expresar, la forma como se comunica el compromiso, dirección, intenciones e ideas.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Clarificar, reducir y eliminar la confusión que el cliente trae, aumentar la confianza y comprensión. Utilizar la indagación, preguntas poderosas.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Ayudar al cliente a establecer y mantener objetivos claros.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Abrirse e invitar a las posibilidades, crear un ambiente que permita emerger ideas, opciones, oportunidades. Alejarse de sus pensamientos limitantes o de temor, abandonar la zona de confort.</p>
+        <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> Ayudar al cliente a crear y usar estructuras y sistemas de apoyo, identificar relaciones, herramientas.</p>
 
         <br>
 
