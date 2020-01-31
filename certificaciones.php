@@ -180,7 +180,7 @@
 
     <section class="section-2">
 
-        <div class="friends-2 clearfix animacion" style="font-size: 0.9em;">
+    <div class="friends-2 clearfix mobile" style="font-size: 0.9em;">
             <div class="tar float-left m-2">
                 <img src="img/coach1.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
@@ -222,6 +222,49 @@
                 </div>
             </div>
         </div>
+        <div class="friends-2 clearfix animacion pc" style="font-size: 0.9em;">
+            <div class="tar float-left m-2">
+                <img src="img/coach1.jpeg" alt="" class="p-2">
+                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <div class="overlay">
+                    <div class="text-biografia">
+                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    </div>
+                </div>
+            </div>
+            <div class="tar float-left m-2">
+                <img src="img/coach2.jpeg" alt="" class="p-2">
+                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <div class="overlay">
+                    <div class="text-biografia">
+                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    </div>
+                </div>
+            </div>
+            <div class="tar float-left m-2">
+                <img src="img/coach3.jpeg" alt="" class="p-2">
+                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <div class="overlay">
+                    <div class="text-biografia">
+                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    </div>
+                </div>
+            </div>
+            <div class="tar float-left m-2">
+                <img src="img/coach4.jpeg" alt="" class="p-2">
+                <p class="text-capitalize font-weight-bold text-center pt-1"><b>gabriela collado</b></p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <div class="overlay">
+                    <div class="text-biografia">
+                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </section>
 
     <br>
