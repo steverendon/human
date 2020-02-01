@@ -20,7 +20,7 @@ $( document ).ready(function() {
       $('.date').hide();
      }
 
-     if ($(this).scrollTop() > 3200) {
+     if ($(this).scrollTop() > 2200) {
        $('.start-form').removeClass("position-fixed");
      }
      else {
