@@ -7,12 +7,16 @@
                <p class="font-weight-bold text-uppercase text-capitalize"><b>formulario</b></p>
            </div>
            <div class="col-lg-3 text-center border-card-2 img-hover">
-               <img src="img/Group243.png" alt="" class="p-3">
-               <p class="font-weight-bold text-uppercase text-capitalize"><b>messenger</b></p>
+               <a href="https://www.messenger.com/login.php?next=https%3A%2F%2Fwww.messenger.com%2Ft%2F795892750500691%2F%3Fmessaging_source%3Dsource%253Apages%253Amessage_shortlink" target="_blank">
+                 <img src="img/Group243.png" alt="" class="p-3">
+                <p class="font-weight-bold text-uppercase text-capitalize"><b>messenger</b></p>
+               </a>
            </div>
            <div class="col-lg-3 text-center border-card-2 img-hover">
-               <img src="img/Group.png" alt="" class="p-3">
-               <p class="font-weight-bold text-uppercase text-capitalize"><b>whatsapp</b></p>
+               <a href="https://api.whatsapp.com/send?phone=51957075562&text=Hola" target="_blank">
+                  <img src="img/Group.png" alt="" class="p-3">
+                  <p class="font-weight-bold text-uppercase text-capitalize"><b>whatsapp</b></p>
+               </a>
            </div>
            <div class="col-lg-3 text-center border-card-2 img-hover">
                <img src="img/telefono.png" alt="" class="p-3">
@@ -57,7 +61,7 @@
                 <a href="mailto:@hmg.pe" class="enlaces"> @hmg.pe</a>
             </td>
             <td style="width: 20%;">
-                Síguenos <a href=""><img src="img/face.png" class="zoom enlaces"></a> <a href=""><img src="img/in.jpeg" class="zoom"></a>
+                Síguenos <a href="https://www.facebook.com/HumanGrowthPeru/" target="_blank"><img src="img/face.png" class="zoom enlaces"></a> <a href="https://www.instagram.com/human_growth_la/" target="_blank"><img src="img/in.jpeg" class="zoom"></a>
             </td>
         </tr>
     </table>

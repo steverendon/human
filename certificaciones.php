@@ -89,7 +89,7 @@
                 </div>
                 <div class="col-md-8">
                     <p class="font-weight-bold text-uppercase text-capitalize"><b>Certificado Internacional</b></p>
-                    <p class="">Aprendizaje social y colaborativo: Grupos privados para facilitar el aprendizaje interempresarial y las aplicaciones del mundo real.</p>
+                    <p class="text-justify">Al completar el programa y aprobar las evaluaciones serás <strong class="color_azul_human">certificado como Coach Profesional a nombre de la Escuela Internacional de Coaching Human Growth</strong>. Asi mismo estaras listo para recibir la acreditación de la International Association of Coaching (IAC)</p>
                     <a class="my-button mt-2 cb" href="#footer">Contactar</a>
                 </div>
             </div>
@@ -148,7 +148,7 @@
             <div class="tar float-left m-2">
                 <img src="img/coach1.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Gabriel pereira</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
+                <p class="text-capitalize text-center px-1">Fundador y Director de Human Growth.</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
@@ -158,7 +158,7 @@
             <div class="tar float-left m-2">
                 <img src="img/coach2.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">fernando loyola</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
+                <p class="text-capitalize text-center px-1">Coach y team coach certificado por la International Coaching Community (Inglaterra)</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach y team coach certificado por la International Coaching Community (Inglaterra) y coach de innovación por Systematic Inventive Thinking (Israel). Magister en Administración de Negocios (MBA) por la Escuela de Posgrado de la Universidad Peruana de Ciencias Aplicadas. Máster en Gestión Estratégica del Factor Humano con mención en Consultoría Organizacional por la Escuela de Organización Industrial (EOI, España).
@@ -168,7 +168,7 @@
             <div class="tar float-left m-2">
                 <img src="img/coach3.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Sandra Sato</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
+                <p class="text-capitalize text-center px-1">Consultora Senior en Human Growth</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach Profesional certificado y acreditado por la International Coaching Institute– ICI de Alemania y la ICF – International Coaching Federation(USA), miembro de la AsociaciónPeruana de Coaching (APCO). Licenciataria en Benziger Thinking Styles Assessment (neuropsicología).

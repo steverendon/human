@@ -15,8 +15,8 @@
                     <b class="text-white " id="app_timer">16 : 39 : 17</b>
                 </div>
             </div>
-            <div class="col-lg-2">
-                <button class="llamado p-2 font-weight-bold">¡Inscríbete ahora!</button>
+            <div class="col-lg-2" style="padding-top: 7px;">
+                <a class="llamado p-2 font-weight-bold" href="https://escueladecoaching-hg.la/certificaciones.php">¡Inscríbete ahora!</a>
             </div>
         </div>
         </div>

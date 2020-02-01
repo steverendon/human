@@ -20,7 +20,7 @@
                 <a href="mailto:@hmg.pe" class="enlaces"> @hmg.pe</a>
             </td>
             <td style="width: 20%;">
-                Síguenos <a href=""><img src="img/face.png" class="zoom enlaces"></a> <a href=""><img src="img/in.jpeg" class="zoom"></a>
+                Síguenos <a href="https://www.facebook.com/HumanGrowthPeru/" target="_blank"><img src="img/face.png" class="zoom enlaces"></a> <a href="https://www.instagram.com/human_growth_la/" target="_blank"><img src="img/in.jpeg" class="zoom"></a>
             </td>
         </tr>
     </table>

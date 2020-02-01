@@ -1,7 +1,7 @@
 <div class="start-form position-fixed text-center content-form">
   <div class="bg-white rounded">
     <img src="img/image43.png" alt="logo de la empresa" width="210">
-    <p class="h5 text-uppercase font-weight-bold"><b><span>certificacion</span><br><span> en coach profesional</span></b></p>
+    <p class="h5 text-uppercase font-weight-bold"><b><span>certificacion</span><br><span> en coaching profesional</span></b></p>
     <p class="m-2" style="font-size: 0.8em;">Conoce más sobre nuestro programa de formación, déjanos tus datos.</p>
     <form class="row my-form mx-2">
         <div class="col-6">
