@@ -27,43 +27,7 @@
 
           <button class="my-button-2 text-center">inscríbete ahora</button>
 
-          <div class="start-form position-fixed text-center content-form">
-              <div class="bg-white rounded">
-                <img src="img/image43.png" alt="logo de la empresa" width="210">
-                <p class="h5 text-uppercase font-weight-bold"><b><span>certificacion</span><br><span> en coach profesional</span></b></p>
-                <p class="m-2" style="font-size: 0.8em;">Conoce más sobre nuestro programa de formación, déjanos tus datos</p>
-                <form class="row my-form mx-2">
-                    <div class="col-6">
-                        <div class="form-group">
-                            <input class="form-control" type="text" placeholder="Nombre">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">
-                            <input class="form-control" type="text" placeholder="Apellido">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">
-                            <input class="form-control" type="text" placeholder="E-mail">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">
-                            <input class="form-control" type="text" placeholder="Celular">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="form-group">
-                            <textarea class="form-control" placeholder="Mensaje" rows="2"></textarea>
-                        </div>
-                        <small class="text-muted">Todos los campos son obligatorios</small>
-                    </div>
-                    <button type="button" class="my-button mx-auto mb-2">enviar</button>
-                </form>
-            </div>
-              <p class="date p-2 m-0 font-weight-bold text-white text-capitalize rounded-bottom">inicio 18 de abril</p>
-          </div>
+         <?php include('includes/formulario.php') ?>
           <div class="fringe">
             <table class="w-100 text-center banner">
                 <tr>
@@ -106,7 +70,7 @@
 
         <br>
 
-        <p>Al completar el programa y aprobar las evaluaciones recibirás una doble certificación como Coach Profesional a nombre de Human Growth Escuela de Coaching y Human Growth, consultora internacional de Gestión del Talento. Así mismo estarás listo para recibir la certificación de la International Association of Coaching (IAC).</p>
+        <p>Al completar el programa y aprobar las evaluaciones recibirás una doble certificación como Coach Profesional a nombre de Human Growth Escuela de Coaching y Human Growth, consultora internacional de Gestión del Talento. Así mismo estarás listo para recibir la acreditación de la International Association of Coaching (IAC).</p>
 
         <br>
 
@@ -117,8 +81,8 @@
 
     </section>
 
-    <section class="section-3 w-75 app_responsive">
-        <div class="w-75 border-card app_responsive">
+    <section class="section-3 w-75 app_respo_cont_cert_inter">
+        <div class="w-75 border-card app_respo_cont_cert_inter">
             <div class="row justify-content-center">
                 <div class="col-md-2">
                     <center><img src="img/certified.svg" alt="" class="mx-auto p-2 cer"></center>
@@ -158,7 +122,7 @@
             </div>
             <div class="float-left box">
                 <img src="img/QueRecibirasParaLograrlo/6.svg" alt="" class="p-3">
-                <p class="py-2">Ternas de práctica.</p>
+                <p class="py-2">9 Ternas de práctica.</p>
             </div>
             <div class="float-left box">
                 <img src="img/QueRecibirasParaLograrlo/7.svg" alt="" class="p-3">
@@ -175,7 +139,7 @@
         </div>
     </section>
 
-    <p class="font-weight-bold text-uppercase h3 p-3 subtitulo pc"><b>nuestros mentores</b></p>
+    <p class="font-weight-bold text-uppercase h3 p-3 subtitulo app_subtitulo_respo"><b>nuestros mentores</b></p>
 
     <section class="section-2">
 
@@ -184,7 +148,7 @@
             <div class="tar float-left m-2">
                 <img src="img/coach1.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Gabriel pereira</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
@@ -194,7 +158,7 @@
             <div class="tar float-left m-2">
                 <img src="img/coach2.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">fernando loyola</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach y team coach certificado por la International Coaching Community (Inglaterra) y coach de innovación por Systematic Inventive Thinking (Israel). Magister en Administración de Negocios (MBA) por la Escuela de Posgrado de la Universidad Peruana de Ciencias Aplicadas. Máster en Gestión Estratégica del Factor Humano con mención en Consultoría Organizacional por la Escuela de Organización Industrial (EOI, España).
@@ -204,7 +168,7 @@
             <div class="tar float-left m-2">
                 <img src="img/coach3.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Sandra Sato</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach Profesional certificado y acreditado por la International Coaching Institute– ICI de Alemania y la ICF – International Coaching Federation(USA), miembro de la AsociaciónPeruana de Coaching (APCO). Licenciataria en Benziger Thinking Styles Assessment (neuropsicología).
@@ -214,7 +178,7 @@
             <div class="tar float-left m-2">
                 <img src="img/coach4.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Paul Isa</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
                 <div class="overlay">
                     <div class="text-biografia">Coach profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Posee formación en Metodología de Coaching Ontológico en Miami-Florida. Es Licenciado en Psicología de la Universidad Nacional Federico Villarreal. Master en Psicoterapia Gestalt, recibiendo la certificación mediante el Esalen Institute Peru.
                     </div>
@@ -226,7 +190,7 @@
             <div class="tar float-left m-2">
                 <img src="img/coach1.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Gabriel Pereira</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
@@ -236,7 +200,7 @@
             <div class="tar float-left m-2">
                 <img src="img/coach2.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Fernando Loyola</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach y team coach certificado por la International Coaching Community (Inglaterra) y coach de innovación por Systematic Inventive Thinking (Israel). Magister en Administración de Negocios (MBA) por la Escuela de Posgrado de la Universidad Peruana de Ciencias Aplicadas. Máster en Gestión Estratégica del Factor Humano con mención en Consultoría Organizacional por la Escuela de Organización Industrial (EOI, España).
@@ -246,7 +210,7 @@
             <div class="tar float-left m-2">
                 <img src="img/coach3.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Sandra Sato</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach Profesional certificado y acreditado por la International Coaching Institute– ICI de Alemania y la ICF – International Coaching Federation(USA), miembro de la AsociaciónPeruana de Coaching (APCO). Licenciataria en Benziger Thinking Styles Assessment (neuropsicología).
@@ -256,7 +220,7 @@
             <div class="tar float-left m-2">
                 <img src="img/coach4.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Paul Isa</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
                 <div class="overlay">
                     <div class="text-biografia">Coach profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Posee formación en Metodología de Coaching Ontológico en Miami-Florida. Es Licenciado en Psicología de la Universidad Nacional Federico Villarreal. Master en Psicoterapia Gestalt, recibiendo la certificación mediante el Esalen Institute Peru.
                     </div>
@@ -276,7 +240,7 @@
                     <div class="row">
                         <div class="col-9 col-md-10">
                             <h4 class="color_azul_human">¡Participa de nuestras actividades!</h4>
-                            <p class="max_width_100">Ven entérate y participa de nuestras actividades con nuestro equipo de coach especialistas que te informarán acerca nuestro certificado.</p>
+                            <p class="max_width_100">Ven entérate y participa de nuestras actividades con nuestro equipo de coaches especialistas que te informarán acerca nuestro certificado.</p>
                         </div>
                         <div class="col-3 col-md-2">
                             <img src="img/arrow.png" alt="arrow" class="app_arrow_sep">
@@ -297,7 +261,7 @@
                 <p class="p-2 text-center m-auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, in culpa qui officia deserunt.</p>
                 <br>
                 <p class="h5 text-capitalize font-weight-bold text-center px-2 m-auto">gabriela collado</p>
-                <p class="text-capitalize text-center m-auto px-2">Senior Coach Ontológico Transpersonal, Enfermera</p>
+                <p class="text-capitalize text-center m-auto px-2">Senior Coach Ontológico Transpersonal</p>
                 <br>
             </div>
         </div>

@@ -786,3 +786,17 @@ footer div{
 .max_width_100{
   max-width: 100%!important;
 }
+
+.padd_footer{
+  padding-top: 4.5rem!important;
+  padding-bottom: 0!important;
+}
+
+.img_logo_footer{
+  width: 12rem;
+}
+
+.app_boder_logo{
+  box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.15);
+  margin: 0 45px;
+}

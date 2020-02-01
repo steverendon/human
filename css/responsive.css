@@ -10,6 +10,10 @@
 		padding: 0rem !important;
 	}
 
+	.app_subtitulo_respo{
+		font-size: 1.8em !important;
+	}
+
 	.benefits{
 		width: 100%;
 	}
@@ -72,6 +76,16 @@
 	.app_actividades_sepa{
 		padding: 19px;
     	width: 100%;
+	}
+
+	.app_respo_cont_escuela{
+		width: 100%!important;
+		padding: 40px 20px!important;
+	}
+
+	.app_respo_cont_cert_inter{
+		width: 100%!important;
+		padding: 1rem!important;
 	}
 
 }

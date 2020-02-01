@@ -20,48 +20,12 @@
     <section class="desktop ">
         <div class="container">
           <p class="h1 font-weight-bold text-uppercase w-25 first-text"><b class="text-white">nuestra escuela</b></p>
-          <div class="start-form position-fixed text-center content-form">
-              <div class="bg-white rounded">
-                <img src="img/image43.png" alt="logo de la empresa" width="210">
-                <p class="h5 text-uppercase font-weight-bold"><b><span>certificacion</span><br><span> en coach profesional</span></b></p>
-                <p class="m-2" style="font-size: 0.8em;">Conoce más sobre nuestro programa de formación, déjanos tus datos</p>
-                <form class="row my-form mx-2">
-                    <div class="col-6">
-                        <div class="form-group">
-                            <input class="form-control" type="text" placeholder="Nombre">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">
-                            <input class="form-control" type="text" placeholder="Apellido">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">
-                            <input class="form-control" type="text" placeholder="E-mail">
-                        </div>
-                    </div>
-                    <div class="col-6">
-                        <div class="form-group">
-                            <input class="form-control" type="text" placeholder="Celular">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="form-group">
-                            <textarea class="form-control" placeholder="Mensaje" rows="2"></textarea>
-                        </div>
-                        <small class="text-muted">Todos los campos son obligatorios</small>
-                    </div>
-                    <button type="button" class="my-button mx-auto mb-2">enviar</button>
-                </form>
-            </div>
-              <p class="date p-2 m-0 font-weight-bold text-white text-capitalize rounded-bottom">inicio 18 de abril</p>
-          </div>
+          <?php include('includes/formulario.php') ?>
         </div>
     </section>
 
     <div class="container">
-      <div class="w-75 p-5 app_responsive">
+      <div class="w-75 p-5 app_respo_cont_escuela">
 
         <table class="w-100">
             <tr>
@@ -101,19 +65,19 @@
             <div class="col-lg-6  col-md-6 mb-4">
               <div class="border-card">
                 <center><img src="img/Group210.png" alt="" class="m-2"></center>
-                 <p class="text-center">Que, basado en un mayor conocimiento personal, inicies un proceso de transformación y desarrollo de fortalezas necesarias para ser un buen coach.</p>
+                 <p class="text-center">Que desarrolles a un nivel suficiente las maestrías necesarias para ser un Coach Profesional.</p>
               </div>                
              </div>
              <div class="col-lg-6  col-md-6 mb-4">
               <div class="border-card">
                 <center><img src="img/Group212.png" alt="" class="m-2"></center>
-                 <p class="text-center">Que, basado en un mayor conocimiento personal, inicies un proceso de transformación y desarrollo de fortalezas necesarias para ser un buen coach.</p>
+                 <p class="text-center">Que seas capaz de ejecutar un proceso de coaching profesional de principio a fin.</p>
               </div>                
              </div>
              <div class="col-lg-6  col-md-6 mb-4">
               <div class="border-card">
                 <center><img src="img/Group213.png" alt="" class="m-2"></center>
-                 <p class="text-center">Que, basado en un mayor conocimiento personal, inicies un proceso de transformación y desarrollo de fortalezas necesarias para ser un buen coach.</p>
+                 <p class="text-center">Que puedas empezar a ejercer profesionalmente como Coach.</p>
               </div>                
              </div>
              <div class="col-lg-12  col-md-12 mb-4">

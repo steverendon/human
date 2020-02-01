@@ -33,37 +33,14 @@
    </div>
 </div>
 
-<div class="pc">
-    <table class="w-100" style="font-size: 0.9em;">
-        <tr>
-            <td style="width: 20%;">
-                <img src="img/telephone.svg" alt="logo de telefono">
-                (511) 637 3070 / (511) 637 3072
-            </td>
-            <td style="width: 20%;">
-                <img src="img/address.svg" alt="logo de edificio">
-                <span class="float-right px-1">Benavides 1555 | Oficina 304<br> Lima | Miraflores</span> 
-            </td>
-            <td style="width: 20%;">
-                <img src="img/logo.svg" alt="" class="p-4">
-            </td>
-            <td style="width: 20%;">
-                <img src="img/email.svg" alt="">
-                contacto@hmg.pe
-            </td>
-            <td style="width: 20%;">
-                Síguenos <a href="https://www.instagram.com/human_growth_la/" target="_blank"><img src="img/face.png"></a> <a href="https://www.facebook.com/HumanGrowthPeru/" target="_blank"><img src="img/insta.png"></a> <a href="  "><img src="img/face.png"></a>
-            </td>
-        </tr>
-    </table>
-</div>
 
-<div class="pc p-4 text-center">
+
+<div class="pc padd_footer text-center">
     <table class="" style="font-size: 0.9em; width: 100%; margin: auto;">
         <tr>
             <td style="width: 20%;">
                 <img src="img/telephone.svg" alt="logo de telefono">
-                <a href="tel:637 3070" class=" enlaces">637 3070 / (511) 637 3072</a> 
+                <a href="tel:51957075562" class=" enlaces">+51 957 075 562</a> 
                 <div class="linea w-75 mx-auto"></div>
             </td>
             <td style="width: 20%;">
@@ -71,7 +48,9 @@
                 <span class="float-right px-1"><a href="#" class="enlaces">Benavides 1555 | Oficina 304<br> Lima | Miraflores</a></span> 
             </td>
             <td style="width: 20%;">
-                <img src="img/logo.svg" alt="" class="p-4">
+                <div class="app_boder_logo">
+                  <img src="img/logo-escuela-coaching-footer.png" alt="" class="p-4 img_logo_footer">
+                </div>
             </td>
             <td style="width: 20%;">
                 <img src="img/email.svg" alt="">
@@ -89,7 +68,7 @@
     <center><img src="img/logo.svg" alt="" class="m-3"></center>
     <div class="w-100 mx-auto my-2 border-bottom">
         <img src="img/telefono2.png" alt="" class="d-inline-block">
-        <p class="d-inline-block">(511) 637 3070 / (511) 637 3072</p>
+        <p class="d-inline-block">+51 957 075 562</p>
     </div>
     <div class="w-100 mx-auto my-2 border-bottom">
         <img src="img/address.svg" alt="" class="d-inline-block">
