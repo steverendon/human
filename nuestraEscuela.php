@@ -57,31 +57,31 @@
 
         <div class="row w-100 app_margin_responsive_row">
             <div class="col-lg-6  col-md-6 mb-4">
-              <div class="border-card">
+              <div class="border-card img-hover" style="height:300px; width: 320px">
                 <center><img src="img/Group211.png" alt="" class="m-2"></center>
                 <p class="text-center">Que, basado en un mayor conocimiento personal, inicies un proceso de transformación y desarrollo de fortalezas necesarias para ser un buen coach.</p>
               </div>
             </div>
             <div class="col-lg-6  col-md-6 mb-4">
-              <div class="border-card">
+              <div class="border-card img-hover" style="height:300px; width: 320px">
                 <center><img src="img/Group210.png" alt="" class="m-2"></center>
                  <p class="text-center">Que desarrolles a un nivel suficiente las maestrías necesarias para ser un Coach Profesional.</p>
               </div>                
              </div>
              <div class="col-lg-6  col-md-6 mb-4">
-              <div class="border-card">
+              <div class="border-card img-hover" style="height:300px; width: 320px">
                 <center><img src="img/Group212.png" alt="" class="m-2"></center>
                  <p class="text-center">Que seas capaz de ejecutar un proceso de coaching profesional de principio a fin.</p>
               </div>                
              </div>
              <div class="col-lg-6  col-md-6 mb-4">
-              <div class="border-card">
+              <div class="border-card img-hover" style="height:300px; width: 320px">
                 <center><img src="img/Group213.png" alt="" class="m-2"></center>
                  <p class="text-center">Que puedas empezar a ejercer profesionalmente como Coach.</p>
               </div>                
              </div>
              <div class="col-lg-12  col-md-12 mb-4">
-                <div class="border-card">
+                <div class="border-card img-hover">
                   <div class="row justify-content-center">
                       <div class="col-md-3 col-12">
                           <center><img src="img/certified.svg" alt="" class="mx-4 p-2 cer"></center>

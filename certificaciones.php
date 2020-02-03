@@ -82,7 +82,7 @@
     </section>
 
     <section class="section-3 w-75 app_respo_cont_cert_inter">
-        <div class="w-75 border-card app_respo_cont_cert_inter">
+        <div class="w-75 border-card app_respo_cont_cert_inter img-hover">
             <div class="row justify-content-center">
                 <div class="col-md-2">
                     <center><img src="img/certified.svg" alt="" class="mx-auto p-2 cer"></center>
@@ -236,7 +236,7 @@
     <section class="section-2">
         <div class="container-fluid">
             <div class="row">
-                <div class="tar app_actividades_sepa">
+                <div class="tar app_actividades_sepa img-hover">
                     <div class="row">
                         <div class="col-9 col-md-10">
                             <h4 class="color_azul_human">¡Participa de nuestras actividades!</h4>
