@@ -38,7 +38,7 @@
                     <img src="img/coach1.jpeg" alt="">
                     <div class="p-4-2">
                       <p class="text-capitalize font-weight-bold text-center mb-0"><strong class="color_azul_human">Gabriel pereira</strong></p>
-                    <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal</p>
+                    <p class="text-capitalize text-center px-2">Fundador y Director de Human Growth.</p>
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@
                     <img src="img/coach2.jpeg" alt="">
                     <div class="p-4-2">
                       <p class="text-capitalize font-weight-bold text-center mb-0"><strong class="color_azul_human">Fernando Loyolao</strong></p>
-                      <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal</p>
+                      <p class="text-capitalize text-center px-2">Coach y team coach certificado por la International Coaching Community (Inglaterra)</p>
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     <img src="img/coach3.jpeg" alt="">
                     <div class="p-4-2">
                       <p class="text-capitalize font-weight-bold text-center mb-0"><strong class="color_azul_human">Sandra Sato</strong></p>
-                      <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal</p>
+                      <p class="text-capitalize text-center px-2">Consultora Senior en Human Growth</p>
                     </div>
                 </div>
             </div>
