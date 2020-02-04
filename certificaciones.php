@@ -57,7 +57,7 @@
     <br>
 
     <section class="section-2 w-75">
-        <p class="h3 font-weight-bold text-uppercase w-50 my-5  mb-6 text-indent-13 titulo_respo"> &nbsp;&nbsp;¿Qué recibirás para lograrlo?</p>
+        <p class="h3 font-weight-bold text-uppercase w-50 my-5  mb-6 text-indent-13 titulo_respo"> &nbsp;&nbsp; Habilidades a desarrollar</p>
         <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Establecer y mantener una relación de confianza con el cliente.</p>
         <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Percibir, afirmar y expandir el potencial del cliente.</p>
         <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Escucha comprometida.</p>
@@ -67,10 +67,6 @@
         <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Ayudar al cliente a establecer y mantener objetivos claros.</p>
         <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Abrirse e invitar a las posibilidades, crear un ambiente que permita emerger ideas, opciones, oportunidades. Alejarse de sus pensamientos limitantes o de temor, abandonar la zona de confort.</p>
         <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Ayudar al cliente a crear y usar estructuras y sistemas de apoyo, identificar relaciones, herramientas.</p>
-
-        <br>
-
-        <p>Al completar el programa y aprobar las evaluaciones recibirás una doble certificación como Coach Profesional a nombre de Human Growth Escuela de Coaching y Human Growth, consultora internacional de Gestión del Talento. Así mismo estarás listo para recibir la acreditación de la International Association of Coaching (IAC).</p>
 
         <br>
 
@@ -96,7 +92,7 @@
          </div>
     </section>
 
-    <p class="font-weight-bold text-uppercase h3 p-3 subtitulo"><b>nuestros beneficios</b></p>
+    <p class="font-weight-bold text-uppercase h3 p-3 subtitulo"><b>¿Qué recibirás para lograrlo?</b></p>
     <section class="section-2">
 
         <div class="benefits clearfix text-center">
@@ -122,7 +118,7 @@
             </div>
             <div class="float-left box">
                 <img src="img/QueRecibirasParaLograrlo/6.svg" alt="" class="p-3">
-                <p class="py-2">9 Ternas de práctica.</p>
+                <p class="py-2">8 Ternas de práctica.</p>
             </div>
             <div class="float-left box">
                 <img src="img/QueRecibirasParaLograrlo/7.svg" alt="" class="p-3">
@@ -130,7 +126,7 @@
             </div>
             <div class="float-left box">
                 <img src="img/QueRecibirasParaLograrlo/8.svg" alt="" class="p-3">
-                <p class="py-2">Evaluación parcial y finservadaal ob.</p>
+                <p class="py-2">Evaluación parcial</p>
             </div>
             <div class="float-left box">
                 <img src="img/QueRecibirasParaLograrlo/9.svg" alt="">
@@ -158,7 +154,6 @@
             <div class="tar float-left m-2">
                 <img src="img/coach2.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">fernando loyola</strong></p>
-                <p class="text-capitalize text-center px-1">Coach y team coach certificado por la International Coaching Community (Inglaterra)</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach y team coach certificado por la International Coaching Community (Inglaterra) y coach de innovación por Systematic Inventive Thinking (Israel). Magister en Administración de Negocios (MBA) por la Escuela de Posgrado de la Universidad Peruana de Ciencias Aplicadas. Máster en Gestión Estratégica del Factor Humano con mención en Consultoría Organizacional por la Escuela de Organización Industrial (EOI, España).
@@ -168,7 +163,6 @@
             <div class="tar float-left m-2">
                 <img src="img/coach3.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Sandra Sato</strong></p>
-                <p class="text-capitalize text-center px-1">Consultora Senior en Human Growth</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach Profesional certificado y acreditado por la International Coaching Institute– ICI de Alemania y la ICF – International Coaching Federation(USA), miembro de la AsociaciónPeruana de Coaching (APCO). Licenciataria en Benziger Thinking Styles Assessment (neuropsicología).
@@ -177,8 +171,7 @@
             </div>
             <div class="tar float-left m-2">
                 <img src="img/coach4.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Paul Isa</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
+                <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Paul Isla</strong></p>
                 <div class="overlay">
                     <div class="text-biografia">Coach profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Posee formación en Metodología de Coaching Ontológico en Miami-Florida. Es Licenciado en Psicología de la Universidad Nacional Federico Villarreal. Master en Psicoterapia Gestalt, recibiendo la certificación mediante el Esalen Institute Peru.
                     </div>
@@ -190,7 +183,6 @@
             <div class="tar float-left m-2">
                 <img src="img/coach1.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Gabriel Pereira</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
@@ -200,7 +192,6 @@
             <div class="tar float-left m-2">
                 <img src="img/coach2.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Fernando Loyola</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach y team coach certificado por la International Coaching Community (Inglaterra) y coach de innovación por Systematic Inventive Thinking (Israel). Magister en Administración de Negocios (MBA) por la Escuela de Posgrado de la Universidad Peruana de Ciencias Aplicadas. Máster en Gestión Estratégica del Factor Humano con mención en Consultoría Organizacional por la Escuela de Organización Industrial (EOI, España).
@@ -210,7 +201,6 @@
             <div class="tar float-left m-2">
                 <img src="img/coach3.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Sandra Sato</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
                 <div class="overlay">
                     <div class="text-biografia">
                     Coach Profesional certificado y acreditado por la International Coaching Institute– ICI de Alemania y la ICF – International Coaching Federation(USA), miembro de la AsociaciónPeruana de Coaching (APCO). Licenciataria en Benziger Thinking Styles Assessment (neuropsicología).
@@ -219,8 +209,7 @@
             </div>
             <div class="tar float-left m-2">
                 <img src="img/coach4.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Paul Isa</strong></p>
-                <p class="text-capitalize text-center px-1">Senior Coach Ontológico Transpersonal</p>
+                <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Paul Isla</strong></p>
                 <div class="overlay">
                     <div class="text-biografia">Coach profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Posee formación en Metodología de Coaching Ontológico en Miami-Florida. Es Licenciado en Psicología de la Universidad Nacional Federico Villarreal. Master en Psicoterapia Gestalt, recibiendo la certificación mediante el Esalen Institute Peru.
                     </div>

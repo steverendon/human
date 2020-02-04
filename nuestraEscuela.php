@@ -88,7 +88,7 @@
                       </div>
                       <div class="col-md-9 col-12">
                           <h4 class="font-weight-bold text-uppercase text-capitalize app_resp_center text-left"><strong>Certificado Internacional</strong></h4>
-                          <p class=" px-2">Aprendizaje social y colaborativo: <strong class="color_azul_human">Grupos privados para facilitar el aprendizaje interempresarial</strong> y las aplicaciones del mundo real.</p>
+                          <p class=" px-2">Al completar el programa y aprobar las evaluaciones serás <strong class="color_azul_human">certificado como Coach Profesional a nombre de la Escuela Internacional de Coaching Human Growth</strong>. Asi mismo estaras listo para recibir la acreditación de la International Association of Coaching (IAC)</p>
                           <div class="app_boton">
                             <a class="my-button mt-2 cb" href="http://escueladecoaching-hg.la/certificaciones.php">ver Certificacíon</a>
                           </div>
