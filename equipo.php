@@ -38,7 +38,6 @@
                     <img src="img/coach1.jpeg" alt="">
                     <div class="p-4-2">
                       <p class="text-capitalize font-weight-bold text-center mb-0"><strong class="color_azul_human">Gabriel pereira</strong></p>
-                    <p class="text-capitalize text-center px-2">Fundador y Director de Human Growth.</p>
                     </div>
                 </div>
             </div>
