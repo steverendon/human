@@ -15,6 +15,9 @@ input, textarea, select {
   position: relative;
 }
 
+.dim {
+  height: 200px;
+}
 
 .cb{
   color: #fff!important;
