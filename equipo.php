@@ -46,8 +46,7 @@
                 <div class="tar float-left m-2" data-toggle="modal" data-target=".bd-example-modal-sm-2">
                     <img src="img/coach2.jpeg" alt="">
                     <div class="p-4-2">
-                      <p class="text-capitalize font-weight-bold text-center mb-0"><strong class="color_azul_human">Fernando Loyolao</strong></p>
-                      <p class="text-capitalize text-center px-2">Coach y team coach certificado por la International Coaching Community (Inglaterra)</p>
+                      <p class="text-capitalize font-weight-bold text-center mb-0"><strong class="color_azul_human">Fernando Loyola</strong></p>
                     </div>
                 </div>
             </div>
@@ -56,7 +55,6 @@
                     <img src="img/coach3.jpeg" alt="">
                     <div class="p-4-2">
                       <p class="text-capitalize font-weight-bold text-center mb-0"><strong class="color_azul_human">Sandra Sato</strong></p>
-                      <p class="text-capitalize text-center px-2">Consultora Senior en Human Growth</p>
                     </div>
                 </div>
             </div>
@@ -64,8 +62,7 @@
                 <div class="tar float-left m-2" data-toggle="modal" data-target=".bd-example-modal-sm-4">
                     <img src="img/coach4.jpeg" alt="">
                     <div class="p-4-2">
-                      <p class="text-capitalize font-weight-bold text-center mb-0"><strong class="color_azul_human">Paul Isa</strong></p>
-                      <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal</p>
+                      <p class="text-capitalize font-weight-bold text-center mb-0"><strong class="color_azul_human">Paul Isla</strong></p>
                     </div>
                 </div>
             </div>
@@ -94,7 +91,7 @@
                 <img src="img/coach1.jpeg" alt="">
                 <p class="text-capitalize font-weight-bold text-center p-2"><b>Gabriel Pereyra</b></p>
                 <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal</p>
-                <p class="px-2 text-center">Fundador y Director de Human Growth. Coach Profesional certificado por la International Coaching Community. Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Consultor especializado en liderazgo, cultura y desarrollo organizacional. Es teólogo por la Facultad de Teología Pontificia y Civil de Lima. Realizó sus estudios de especialización en Antropología Filosófica y Teológica en la Universidad Gregoriana en Roma. Es Magíster en Administración Estratégica de Empresas (MBA). Es Máster en Liderazgo por EADA-Barcelona. Certificado en Benziger Thinking Styles Assessment (neuropisología), Hogan Personality Inventory, ADVanced Insights Profiles y en Gestión Cultural por el Barret Values Center (USA). Su experiencia en coaching abarca procesos realizados a la primera línea de empresas como Kimberly Clark, Unilever, Claro, Cencosud, Owens Illinois, Johnson&Johnson, Rimac, Banbif, Compartamos, Sigma, Grupo Vilaseca, El Comercio, entre otros.</p>
+                <p class="px-2 text-center">Fundador y Director de Human Growth. Coach Profesional certificado por la International Coaching Community. Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Consultor especializado en liderazgo, cultura y desarrollo organizacional. Es teólogo por la Facultad de Teología Pontificia y Civil de Lima. Realizó sus estudios de especialización en Antropología Filosófica y Teológica en la Universidad Gregoriana en Roma. Es Magíster en Administración Estratégica de Empresas (MBA). Es Máster en Liderazgo por EADA-Barcelona. Certificado en Benziger Thinking Styles Assessment (neuropsisología), Hogan Personality Inventory, ADVanced Insights Profiles y en Gestión Cultural por el Barret Values Center (USA). Su experiencia en coaching abarca procesos realizados a la primera línea de empresas como Kimberly Clark, Unilever, Claro, Cencosud, Owens Illinois, Johnson&Johnson, Rimac, Banbif, Compartamos, Sigma, Grupo Vilaseca, El Comercio, entre otros.</p>
             </div>
           </div>
       </div>
@@ -114,7 +111,7 @@
                 <img src="img/coach2.jpeg" alt="">
                 <p class="text-capitalize font-weight-bold text-center p-2"><b>Fernando Loyola </b></p>
                 <p class="text-capitalize text-center px-2">Senior Coach Ontológico Transpersonal</p>
-                <p class="px-2 text-center">Coach y team coach certificado por la International Coaching Community (Inglaterra) y coach de innovación por Systematic Inventive Thinking (Israel). Magister en Administración de Negocios (MBA) por la Escuela de Posgrado de la Universidad Peruana de Ciencias Aplicadas. Máster en Gestión Estratégica del Factor Humano con mención en Consultoría Organizacional por la Escuela de Organización Industrial (EOI, España). Licenciado en Psicología Social por la Pontificia Universidad Católica del Perú. Certificado en la metodología CoachingxValores (España). 20 años de experiencia desempeñándose en áreas de consultoría, gestión de servicios educativos, desarrollo, aprendizaje y cambio organizacional en procesos y proyectos a nivel regional. Ha sido Director Adjunto de Calidad Educativa para la UPC y Director Asociado en CADDEPRO. Autor del libro "Diseña tu carrera" (Editorial UPC, 2017, ECOE Ediciones, 2019).</p>
+                <p class="px-2 text-center">Coach y team coach certificado por la International Coaching Community (Inglaterra) y coach de innovación por Systematic Inventive Thinking (Israel). Magister en Administración de Negocios (MBA) por la Escuela de Posgrado de la Universidad Peruana de Ciencias Aplicadas. Máster en Gestión Estratégica del Factor Humano con mención en Consultoría Organizacional por la Escuela de Organización Industrial (EOI, España). Licenciado en Psicología Social por la Pontificia Universidad Católica del Perú. Certificado en la metodología Coaching por valores (España). 20 años de experiencia desempeñándose en áreas de consultoría, gestión de servicios educativos, desarrollo, aprendizaje y cambio organizacional en procesos y proyectos a nivel regional. Ha sido Director Adjunto de Calidad Educativa para la UPC y Director Asociado en CADDEPRO. Autor del libro "Diseña tu carrera" (Editorial UPC, 2017, ECOE Ediciones, 2019).</p>
             </div>
           </div>
       </div>
