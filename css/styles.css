@@ -374,8 +374,6 @@ input, textarea, select {
 }
 
 .start-form-mobile {
-  right: 11%;
-  top: 21%;
   box-shadow: 0px 3px 25px rgba(0, 0, 0, 0.1);
   width: 350px;
   z-index: 1;

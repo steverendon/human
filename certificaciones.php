@@ -23,9 +23,9 @@
 
     <header class="header">
         <div class="app_bg_gradien"></div>
-          <h1 class="text-capitalize first-text font-weight-bold"><b class="text-white">nuestra</b> certificación</h1>
+          <h1 class="text-capitalize first-text font-weight-bold p-2"><b class="text-white">nuestra</b> certificación</h1>
 
-          <button class="my-button-2 text-center">inscríbete ahora</button>
+         <!-- <button class="my-button-2 text-center">inscríbete ahora</button> -->
 
          <?php include('includes/formulario.php') ?>
           <div class="fringe">
@@ -85,9 +85,9 @@
         <div class="w-75 border-card app_respo_cont_cert_inter img-hover">
             <div class="row justify-content-center">
                 <div class="col-md-2">
-                    <center><img src="img/certified.svg" alt="" class="mx-auto p-2 cer"></center>
+                   <center> <img src="img/certified.svg" alt="" class="m-auto p-2 m-2 cer"> </center>
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-8 mx-5">
                     <p class="font-weight-bold text-uppercase text-capitalize"><b>Certificado Internacional</b></p>
                     <p class="text-justify">Al completar el programa y aprobar las evaluaciones serás <strong class="color_azul_human">certificado como Coach Profesional a nombre de la Escuela Internacional de Coaching Human Growth</strong>. Asi mismo estaras listo para recibir la acreditación de la International Association of Coaching (IAC)</p>
                     <a class="my-button mt-2 cb" href="#footer">Contactar</a>
@@ -252,7 +252,8 @@
     </section>
 
     <section class="section-2">
-    <div class="start-form-mobile position-relative text-center mobile mx-auto my-2" style="width:95%">
+        <div class="container-fluid">
+        <div class="start-form-mobile position-relative text-center mobile mx-auto my-2 mt-4" style="width:100%">
         <div class="bg-white rounded">
             <img src="img/image43.png" alt="logo de la empresa" width="210">
             <p class="h5 text-uppercase font-weight-bold"><b><span>certificacion</span><br><span> en coach profesional</span></b></p>
@@ -289,6 +290,8 @@
         </div>
         <p class="date p-2 m-0 font-weight-bold text-white text-capitalize rounded-bottom">inicio 18 de abril</p>
         </div>
+        </div>
+
     </section>
 
 
