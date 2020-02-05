@@ -17,7 +17,7 @@
             </td>
             <td style="width: 20%;">
                 <img src="img/email.svg" alt="">
-                <a href="mailto:@hmg.pe" class="enlaces"> @hmg.pe</a>
+                <a href="mailto:@hmg.pe" class="enlaces">contacto@hmg.pe<</a>
             </td>
             <td style="width: 20%;">
                 Síguenos <a href="https://www.facebook.com/HumanGrowthPeru/" target="_blank"><img src="img/face.png" class="zoom enlaces"></a> <a href="https://www.instagram.com/human_growth_la/" target="_blank"><img src="img/in.jpeg" class="zoom"></a>
@@ -35,7 +35,7 @@
     </div>
     <div class="w-100 mx-auto my-2 border-bottom">
         <img src="img/address.svg" alt="" class="d-inline-block">
-        <p class="d-inline-block"> Av. Benavides 1555 | Oficina<br> 304 Lima | Miraflores</p>
+        <p class="d-inline-block"><a href="https://www.google.com/maps/dir/-12.0717216,-76.9758268/human+growth/@-12.0997631,-77.0357557,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x9105c908f051c909:0x6cb00243730f5f3!2m2!1d-77.0167473!2d-12.1262486">Av. Benavides 1555 | Oficina<br> 304 Lima | Miraflores</a></p>
     </div>
     <div class="w-100 mx-auto my-2 border-bottom">
         <img src="img/email.svg" alt="" class="d-inline-block">
