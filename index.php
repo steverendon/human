@@ -16,31 +16,7 @@
   <?php include('includes/header.php'); ?>
   <?php include('includes/carousel.php'); ?>
     
-    <div class="pc p-4 text-center">
-      <table class="" style="font-size: 0.9em; width: 100%; margin: auto;">
-          <tr>
-              <td style="width: 20%;">
-                  <img src="img/telephone.svg" alt="logo de telefono">
-                  <a href="tel:637 3070" class=" enlaces">637 3070 / (511) 637 3072</a> 
-                  <div class="linea w-75 mx-auto"></div>
-              </td>
-              <td style="width: 20%;">
-                  <img src="img/address.svg" alt="logo de edificio">
-                  <span class="float-right px-1"><a href="#" class="enlaces">Benavides 1555 | Oficina 304<br> Lima | Miraflores</a></span> 
-              </td>
-              <td style="width: 20%;">
-                  <img src="img/logo.svg" alt="" class="p-4">
-              </td>
-              <td style="width: 20%;">
-                  <img src="img/email.svg" alt="">
-                  <a href="mailto:@hmg.pe" class="enlaces"> @hmg.pe</a>
-              </td>
-              <td style="width: 20%;">
-                  Síguenos <img src="img/face.png" class="zoom enlaces"> <img src="img/in.jpeg" class="zoom"> <img src="img/face.png" class="zoom">
-              </td>
-          </tr>
-      </table>
-  </div>
+  <?php include('includes/footer.php'); ?>
   
   
   <!-- mobile -->
