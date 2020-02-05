@@ -56,7 +56,7 @@
 
     <br>
 
-    <section class="section-2 w-75">
+<!--     <section class="section-2 w-75">
         <p class="h3 font-weight-bold text-uppercase w-50 my-5  mb-6 text-indent-13 titulo_respo"> &nbsp;&nbsp; Habilidades a desarrollar</p>
         <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Establecer y mantener una relación de confianza con el cliente.</p>
         <p class=" mb-6 text-indent-13"><img src="img/check.png" alt="" class="w-15"> &nbsp;&nbsp;Percibir, afirmar y expandir el potencial del cliente.</p>
@@ -74,23 +74,7 @@
         <button class="my-button btn_respo_margin" data-toggle="modal" data-target=".bd-example-modal-sm">ver cronograma &nbsp; <img src="img/calendar.png" class="icon_btn" alt="calendar"></button>
 
         <br><br><br>
-
-    </section>
-
-    <section class="section-3 w-75 app_respo_cont_cert_inter">
-        <div class="w-75 border-card app_respo_cont_cert_inter img-hover">
-            <div class="row justify-content-center">
-                <div class="col-md-2">
-                   <center> <img src="img/certified.svg" alt="" class="m-auto p-2 m-2 cer"> </center>
-                </div>
-                <div class="col-md-8 mx-5">
-                    <p class="font-weight-bold text-uppercase text-capitalize"><b>Certificado Internacional</b></p>
-                    <p class="text-justify">Al completar el programa y aprobar las evaluaciones serás <strong class="color_azul_human">certificado como Coach Profesional a nombre de la Escuela Internacional de Coaching Human Growth</strong>. Asi mismo estaras listo para recibir la acreditación de la International Association of Coaching (IAC)</p>
-                    <a class="my-button mt-2 cb" href="#footer">Contactar</a>
-                </div>
-            </div>
-         </div>
-    </section>
+    </section> -->
 
     <p class="font-weight-bold text-uppercase h3 p-3 subtitulo"><b>¿Qué recibirás para lograrlo?</b></p>
     <section class="section-2">
@@ -135,6 +119,25 @@
         </div>
     </section>
 
+    <section class="section-3 w-75 app_respo_cont_cert_inter">
+        <div class="w-75 border-card app_respo_cont_cert_inter img-hover">
+            <div class="row justify-content-center">
+                <div class="col-md-2">
+                   <center> <img src="img/certified.svg" alt="" class="m-auto p-2 m-2 cer"> </center>
+                </div>
+                <div class="col-md-8 mx-5">
+                    <p class="font-weight-bold text-uppercase text-capitalize"><b>Certificado Internacional</b></p>
+                    <p class="text-justify">Al completar el programa y aprobar las evaluaciones serás <strong class="color_azul_human">certificado como Coach Profesional a nombre de la Escuela Internacional de Coaching Human Growth</strong>. Asi mismo estaras listo para recibir la acreditación de la International Association of Coaching (IAC)</p>
+                    <a class="my-button cb" href="https://escueladecoaching-hg.la/pdf/Brochure_human_growth.pdf" target="_blank" style="padding: 15px;">Descargar brochure &nbsp; <img src="img/descargar.png" class="icon_btn" alt="descargar"></a>
+                    <button class="my-button btn_respo_margin" data-toggle="modal" data-target=".bd-example-modal-sm">ver cronograma &nbsp; <img src="img/calendar.png" class="icon_btn" alt="calendar"></button>
+
+                </div>
+            </div>
+         </div>
+    </section>
+
+    
+
     <p class="font-weight-bold text-uppercase h3 p-3 subtitulo app_subtitulo_respo"><b>nuestros mentores</b></p>
 
     <section class="section-2">
@@ -143,7 +146,7 @@
     <div class="friends-2 clearfix  mobile app_responsive" style="font-size: 0.9em;">
             <div class="tar float-left m-2">
                 <img src="img/coach1.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Gabriel pereira</strong></p>
+                <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Gabriel pereyra</strong></p>
                 <p class="text-capitalize text-center px-1">Fundador y Director de Human Growth.</p>
                 <div class="overlay">
                     <div class="text-biografia">
