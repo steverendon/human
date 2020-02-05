@@ -37,7 +37,7 @@
                 <div class="tar float-left m-2" data-toggle="modal" data-target=".bd-example-modal-sm-1">
                     <img src="img/coach1.jpeg" alt="">
                     <div class="p-4-2">
-                      <p class="text-capitalize font-weight-bold text-center mb-0"><strong class="color_azul_human">Gabriel pereira</strong></p>
+                      <p class="text-capitalize font-weight-bold text-center mb-0"><strong class="color_azul_human">Gabriel Pereyra</strong></p>
                     </div>
                 </div>
             </div>

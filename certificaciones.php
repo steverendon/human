@@ -146,7 +146,7 @@
     <div class="friends-2 clearfix  mobile app_responsive" style="font-size: 0.9em;">
             <div class="tar float-left m-2">
                 <img src="img/coach1.jpeg" alt="" class="p-2">
-                <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Gabriel pereyra</strong></p>
+                <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Gabriel Pereyra</strong></p>
                 <p class="text-capitalize text-center px-1">Fundador y Director de Human Growth.</p>
                 <div class="overlay">
                     <div class="text-biografia">
