@@ -150,7 +150,7 @@
                 <p class="text-capitalize text-center px-1">Fundador y Director de Human Growth.</p>
                 <div class="overlay">
                     <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropsicologia). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
                     </div>
                 </div>
             </div>
@@ -188,7 +188,7 @@
                 <p class="text-capitalize font-weight-bold text-center pt-1 mb-0"><strong class="color_azul_human">Gabriel Pereira</strong></p>
                 <div class="overlay">
                     <div class="text-biografia">
-                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropisología). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
+                    Coach Profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Licenciatario en Benziger Thinking Styles Assessment (neuropsicologia). Team Coach y Trainer en Team Coaching en Dinámica Estructural por el Kantor Institute (USA). Certificado en Gestión Cultural por el Barret Values Center (USA).
                     </div>
                 </div>
             </div>

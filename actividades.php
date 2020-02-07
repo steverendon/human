@@ -51,9 +51,9 @@
             <div class="input-group mb-3">
                 <select class="custom-select" id="inputGroupSelect01">
                   <option selected>Tipo</option>
-                  <option value="1">One</option>
-                  <option value="2">Two</option>
-                  <option value="3">Three</option>
+                  <option value="1">Encuentro</option>
+                  <option value="2">Feria</option>
+                  <option value="3">Conferencia</option>
                 </select>
               </div>
         </div>
@@ -102,31 +102,10 @@
               <div style="min-width: 200px;" class="border-card-2 ">
                   <div class="row">
                       <div class="col-lg-8 pt-3">
-                          <p class="d-inline-block">1 Proceso de coaching individual de 6 sesiones.</p>
+                          <p class="d-inline-block">ENCUENTRO 1: BIENVENIDA AL PROGRAMA</p>
                       </div>
-                      <div class="col-lg-4">
-                          <p class="text-uppercase d-inline-block font-weight-bold text-center color_azul_human"><span class="h1 "><b class="color_azul_human">01</b></span><br>may</p>
-                      </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                      <div class="col-lg-6">
-                          <p class="d-inline-block" style="left: 30px;">Gabriel Pereyra</p>
-                      </div>
-                      <div class="col-lg-6">
-                          <p class="d-inline-block color_azul_human">SEDE san isidro</p>
-                      </div> 
-                  </div>
-              </div>
-          </div>
-          <div class="col-lg-4 mb-4">
-              <div style="min-width: 200px;" class="border-card-2 " data-toggle="modal" data-target=".bd-example-modal-sm">
-                  <div class="row">
-                      <div class="col-lg-8 pt-3">
-                          <p class="d-inline-block">1 Proceso de coaching individual de 6 sesiones.</p>
-                      </div>
-                      <div class="col-lg-4">
-                          <p class="text-uppercase d-inline-block font-weight-bold text-center color_azul_human"><span class="h1 "><b class="color_azul_human">01</b></span><br>may</p>
+                      <div class="col-lg-4 box-fecha">
+                          <p class="text-uppercase d-inline-block font-weight-bold text-center color_azul_human"><span class="fecha-actividades"><b class="color_azul_human">18 y 19</b></span><br>abril</p>
                       </div>
                   </div>
                   <br>
@@ -140,132 +119,7 @@
                   </div>
               </div>
           </div>
-          <div class="col-lg-4 mb-4">
-              <div style="min-width: 200px;" class="border-card-2 " data-toggle="modal" data-target=".bd-example-modal-sm">
-                  <div class="row">
-                      <div class="col-lg-8 pt-3">
-                          <p class="d-inline-block">1 Proceso de coaching individual de 6 sesiones.</p>
-                      </div>
-                      <div class="col-lg-4">
-                          <p class="text-uppercase d-inline-block font-weight-bold text-center color_azul_human"><span class="h1 "><b class="color_azul_human">01</b></span><br>may</p>
-                      </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                      <div class="col-lg-6">
-                          <p class="d-inline-block" style="left: 30px;">Gabriel Pereyra</p>
-                      </div>
-                      <div class="col-lg-6">
-                          <p class="d-inline-block color_azul_human">SEDE san isidro</p>
-                      </div> 
-                  </div>
-              </div>
-          </div>
-          <div class="col-lg-4 mb-4">
-              <div style="min-width: 200px;" class="border-card-2 " data-toggle="modal" data-target=".bd-example-modal-sm">
-                  <div class="row">
-                      <div class="col-lg-8 pt-3">
-                          <p class="d-inline-block">1 Proceso de coaching individual de 6 sesiones.</p>
-                      </div>
-                      <div class="col-lg-4">
-                          <p class="text-uppercase d-inline-block font-weight-bold text-center color_azul_human"><span class="h1 "><b class="color_azul_human">01</b></span><br>may</p>
-                      </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                      <div class="col-lg-6">
-                          <p class="d-inline-block" style="left: 30px;">Gabriel Pereyra</p>
-                      </div>
-                      <div class="col-lg-6">
-                          <p class="d-inline-block color_azul_human">SEDE san isidro</p>
-                      </div> 
-                  </div>
-              </div>
-          </div>
-          <div class="col-lg-4 mb-4">
-              <div style="min-width: 200px;" class="border-card-2 " data-toggle="modal" data-target=".bd-example-modal-sm">
-                  <div class="row">
-                      <div class="col-lg-8 pt-3">
-                          <p class="d-inline-block">1 Proceso de coaching individual de 6 sesiones.</p>
-                      </div>
-                      <div class="col-lg-4">
-                          <p class="text-uppercase d-inline-block font-weight-bold text-center color_azul_human"><span class="h1 "><b class="color_azul_human">01</b></span><br>may</p>
-                      </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                      <div class="col-lg-6">
-                          <p class="d-inline-block" style="left: 30px;">Gabriel Pereyra</p>
-                      </div>
-                      <div class="col-lg-6">
-                          <p class="d-inline-block color_azul_human">SEDE san isidro</p>
-                      </div> 
-                  </div>
-              </div>
-          </div>
-          <div class="col-lg-4 mb-4">
-              <div style="min-width: 200px;" class="border-card-2 " data-toggle="modal" data-target=".bd-example-modal-sm">
-                  <div class="row">
-                      <div class="col-lg-8 pt-3">
-                          <p class="d-inline-block">1 Proceso de coaching individual de 6 sesiones.</p>
-                      </div>
-                      <div class="col-lg-4">
-                          <p class="text-uppercase d-inline-block font-weight-bold text-center color_azul_human"><span class="h1 "><b class="color_azul_human">01</b></span><br>may</p>
-                      </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                      <div class="col-lg-6">
-                          <p class="d-inline-block" style="left: 30px;">Gabriel Pereyra</p>
-                      </div>
-                      <div class="col-lg-6">
-                          <p class="d-inline-block color_azul_human">SEDE san isidro</p>
-                      </div> 
-                  </div>
-              </div>
-          </div>
-          <div class="col-lg-4 mb-4">
-              <div style="min-width: 200px;" class="border-card-2 " data-toggle="modal" data-target=".bd-example-modal-sm">
-                  <div class="row">
-                      <div class="col-lg-8 pt-3">
-                          <p class="d-inline-block">1 Proceso de coaching individual de 6 sesiones.</p>
-                      </div>
-                      <div class="col-lg-4">
-                          <p class="text-uppercase d-inline-block font-weight-bold text-center color_azul_human"><span class="h1 "><b class="color_azul_human">01</b></span><br>may</p>
-                      </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                      <div class="col-lg-6">
-                          <p class="d-inline-block" style="left: 30px;">Gabriel Pereyra</p>
-                      </div>
-                      <div class="col-lg-6">
-                          <p class="d-inline-block color_azul_human">SEDE san isidro</p>
-                      </div> 
-                  </div>
-              </div>
-          </div>
-          <div class="col-lg-4 mb-4">
-              <div style="min-width: 200px;" class="border-card-2 " data-toggle="modal" data-target=".bd-example-modal-sm">
-                  <div class="row">
-                      <div class="col-lg-8 pt-3">
-                          <p class="d-inline-block">1 Proceso de coaching individual de 6 sesiones.</p>
-                      </div>
-                      <div class="col-lg-4">
-                          <p class="text-uppercase d-inline-block font-weight-bold text-center color_azul_human"><span class="h1 "><b class="color_azul_human">01</b></span><br>may</p>
-                      </div>
-                  </div>
-                  <br>
-                  <div class="row">
-                      <div class="col-lg-6">
-                          <p class="d-inline-block" style="left: 30px;">Gabriel Pereyra</p>
-                      </div>
-                      <div class="col-lg-6">
-                          <p class="d-inline-block color_azul_human">SEDE san isidro</p>
-                      </div> 
-                  </div>
-              </div>
-          </div>
+          
       </div>
      </div>
    </section>
@@ -277,10 +131,10 @@
             <a class="" href="#" tabindex="-1"><img src="img/Arrow2.png" alt=""></a>
           </li>
           <li class=""><a class="m-2" href="#" style="color:  #8EB7C1;"> 01</a></li>
-          <li class=""><a class="m-2" href="#" style="color:  #8EB7C1;"> 02</a></li>
+          <!-- <li class=""><a class="m-2" href="#" style="color:  #8EB7C1;"> 02</a></li>
           <li class=""><a class="m-2" href="#" style="color:  #8EB7C1;"> 03</a></li>
           <li class=""><a class="m-2" href="#" style="color:  #8EB7C1;"> 04</a></li>
-          <li class=""><a class="m-2" href="#" style="color:  #8EB7C1;"> 05</a></li>
+          <li class=""><a class="m-2" href="#" style="color:  #8EB7C1;"> 05</a></li> -->
           <li class="">
             <a class="" href="#"><img src="img/Arrow3.png" alt=""></a>
           </li>
@@ -299,14 +153,14 @@
           <div class="modal-body">
             <div class="">
                 <div class="text-uppercase font-weight-bold mx-auto text-center border-card-2 p-2">
-                    <span style="font-size: 3em;" class="d-inline-block"><b>25</b></span><span class="d-inline-block w-100">set</span>
+                    <span style="font-size: 3em;" class="d-inline-block"><b>18 y 19</b></span><span class="d-inline-block w-100">Abril</span>
                 </div>
               </div>
               <br>
-              <p class="font-weight-bold text-center text-capitalize"><b>3 Encuentros centrales de dos días cada uno</b></p>
-              <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <p class="font-weight-bold text-center text-capitalize"><b>ENCUENTRO 1: BIENVENIDA AL PROGRAMA</b></p>
+              <p class="text-center"></p>
               <br>
-              <p class="font-weight-bold text-center text-capitalize"><b>¿quieres participar?<br>comunicate con nosotros</b></p>
+              <p class="font-weight text-center text-capitalize"><b>¿quieres participar?<br>comunicate con nosotros</b></p>
               <div class="row justify-content-center text-center">
                   <div class="col-lg-4">
                       <img src="img/Group243.png" alt="" style="width: 30px;" class="m-auto">
@@ -325,10 +179,10 @@
 
               <div class="row justify-content-center text-center">
                 <div class="col-lg-6">
-                    <p class="text-center text-capitalize" style="font-size: 0.7em;">03 de mayo</p>
+                    <p class="text-center text-capitalize" style="font-size: 0.7em;">18 y 19 de abril</p>
                 </div>
                 <div class="col-lg-6">
-                  <p class="text-center text-capitalize" style="font-size: 0.7em;"><b>sede miraflores</b></p>
+                  <p class="text-center text-capitalize" style="font-size: 0.7em;"><b>Sede miraflores</b></p>
               </div>
             </div>
           </div>
