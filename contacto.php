@@ -75,7 +75,7 @@
         </div>
         <div class="w-100 mx-auto my-2 border-bottom">
             <img src="img/email.svg" alt="" class="d-inline-block">
-            <p class="d-inline-block">contacto@hmg.pe</p>
+            <p class="d-inline-block">escueladecoaching@hmg.pe</p>
         </div>
     </div>
     

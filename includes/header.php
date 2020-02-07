@@ -8,7 +8,7 @@
                 <img src="img/texto.png" alt="">
             </div>
             <div class="col-lg-3">
-                <p style="font-size: 0.7em;" class="text-white ">Conoce más sobre nuestro programa de formación dejanos tus datos</p>
+                <p style="font-size: 0.7em;" class="text-white">Conoce más sobre nuestro programa de formación dejanos tus datos</p>
             </div>
             <div class="col-lg-2">
                 <div class="reloj p-2 text-center m-auto">

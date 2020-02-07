@@ -58,7 +58,7 @@
             </td>
             <td style="width: 20%;">
                 <img src="img/email.svg" alt="">
-                <a href="mailto:@hmg.pe" class="enlaces">contacto@hmg.pe</a>
+                <a href="mailto:escueladecoaching@hmg.pe" class="enlaces">escueladecoaching@hmg.pe</a>
             </td>
             <td style="width: 20%;">
                 Síguenos <a href="https://www.facebook.com/HumanGrowthPeru/" target="_blank"><img src="img/face.png" class="zoom enlaces"></a> <a href="https://www.instagram.com/human_growth_la/" target="_blank"><img src="img/in.jpeg" class="zoom"></a>
@@ -80,6 +80,6 @@
     </div>
     <div class="w-100 mx-auto my-2 border-bottom">
         <img src="img/email.svg" alt="" class="d-inline-block">
-        <p class="d-inline-block">contacto@hmg.pe</p>
+        <p class="d-inline-block"><a href="mailto:escueladecoaching@hmg.pe" class="enlaces">escueladecoaching@hmg.pe</a></p>
     </div>
 </div>
