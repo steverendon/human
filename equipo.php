@@ -24,7 +24,7 @@
                 <h2 class="font-weight-bold text-uppercase px-5"><strong class="color_azul_human">Nuestro </strong> <strong>equipo</strong></h2>
             </div>
             <div class="col-lg-7">
-                <p class="p-2">El coaching es un arte y como tal se perfecciona con el tiempo y la práctica. Por ello <strong class="color_azul_human">todos nuestros formadores son coaches que tienen años de experiencia profesional a nivel internacional</strong> y han acompañado a cientos de personas en procesos de desarrollo personal y laboral. Nuestra metodología asegura que puedas aprender de su trayectoria.</p>
+                <p class="p-2">El coaching es un arte y como tal se perfecciona con el tiempo y la práctica. Por ello <strong class="color_azul_human">todos nuestros formadores son coaches con años de experiencia profesional a nivel internacional</strong> y que han acompañado a cientos de personas en procesos de desarrollo personal y laboral. Nuestra metodología asegura que puedas aprender de su trayectoria.</p>
             </div>
         </div>
     </section>
@@ -150,7 +150,7 @@
                 <img src="img/coach4.jpeg" alt="">
                 <p class="text-capitalize font-weight-bold text-center p-2"><b>Paul Isa</b></p>
                 
-                <p class="px-2 text-center">Coach profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Posee formación en Metodología de Coaching Ontológico en Miami-Florida. Es Licenciado en Psicología de la Universidad Nacional Federico Villarreal. Master en Psicoterapia Gestalt, recibiendo la certificación mediante el Esalen Institute Peru. Cuenta con 15 años de amplia experiencia facilitando procesos de aprendizaje experiencial,  outdoore indoor training, desarrollando competencias alineadas al trabajo en equipo, control emocional, comunicación, atención al cliente, autoconocimiento, entre otras. Especialista en potencialidades personales, trabajo corporal y manejo de estrés. Especial énfasis en la expresión de las emociones, canalización y uso de estas como recurso.</p>
+                <p class="px-2 text-center">Coach profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Posee formación en Metodología de Coaching Ontológico en Miami-Florida. Es Licenciado en Psicología de la Universidad Nacional Federico Villarreal. Master en Psicoterapia Gestalt, recibiendo la certificación mediante el Esalen Institute Perú. Cuenta con 15 años de amplia experiencia facilitando procesos de aprendizaje experiencial,  outdoore indoor training, desarrollando competencias alineadas al trabajo en equipo, control emocional, comunicación, atención al cliente, autoconocimiento, entre otras. Especialista en potencialidades personales, trabajo corporal y manejo de estrés. Especial énfasis en la expresión de las emociones, canalización y uso de estas como recurso.</p>
             </div>
           </div>
       </div>

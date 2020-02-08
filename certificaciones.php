@@ -34,7 +34,7 @@
                     <td>
                         <p class="text-capitalize p-1 text-white mb-0">
                             sede<br>
-                            <span class="font-weight-bold text-white">lima - peru</span>
+                            <span class="font-weight-bold text-white">lima - perú</span>
                         </p>
                     </td>
                     <td class="central">
@@ -176,7 +176,7 @@
                 <img src="img/coach4.jpeg" alt="" class="p-2">
                 <p class="text-capitalize font-weight-bold text-center pt-1"><strong class="color_azul_human">Paul Isla</strong></p>
                 <div class="overlay">
-                    <div class="text-biografia">Coach profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Posee formación en Metodología de Coaching Ontológico en Miami-Florida. Es Licenciado en Psicología de la Universidad Nacional Federico Villarreal. Master en Psicoterapia Gestalt, recibiendo la certificación mediante el Esalen Institute Peru.
+                    <div class="text-biografia">Coach profesional certificado por la International Coaching Community– ICC de Inglaterra, una de las más grandes redes de coachesen el mundo con más de 6,000 miembros en 60 países. Posee formación en Metodología de Coaching Ontológico en Miami-Florida. Es Licenciado en Psicología de la Universidad Nacional Federico Villarreal. Master en Psicoterapia Gestalt, recibiendo la certificación mediante el Esalen Institute Perú.
                     </div>
                 </div>
             </div>

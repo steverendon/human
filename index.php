@@ -62,7 +62,7 @@
       </div>
       <div class="w-100 mx-auto my-2 border-bottom">
           <img src="img/email.svg" alt="" class="d-inline-block">
-          <p class="d-inline-block">escueladecoaching@hmg.pe</p>
+          <p class="d-inline-block"><a href="mailto:escueladecoaching@hmg.pe" class="enlaces">escueladecoaching@hmg.pe</a></p>
       </div>
   </div>
   
